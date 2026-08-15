@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: "tentaikhoan-github/ten-repo"
+  branch: "main"
+  # Trỏ base_url về Cloudflare Worker OAuth Proxy bạn vừa tạo ở Bước 2
+  base_url: "https://sveltia-cms-auth.<ten-tai-khoan-cloudflare>.workers.dev"
+
+collections:
+  - name: "posts_1"
+    label: "Bài viết (Trang 1)"
+    folder: "posts_1"
+    create: true
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "products_1"
+    label: "Sản phẩm (Trang 1)"
+    folder: "products_1"
+    create: true
+    fields:
+      - {label: "Tên sản phẩm", name: "title", widget: "string"}
+      - {label: "Giá", name: "price", widget: "number"}
+      - {label: "Mô tả", name: "body", widget: "markdown"}

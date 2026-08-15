@@ -1,0 +1,520 @@
+<!DOCTYPE html><html lang="vi" data-astro-cid-2kanml4j> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Quản trị nội dung — Tượng Phật Văn Nhân</title><meta name="robots" content="noindex,nofollow"><!-- Admin dùng CSS build sẵn của theme (Tailwind) để không phụ thuộc CDN --><link rel="stylesheet" href="/styles/main.css"><!-- Supabase JS SDK --><script type="module" src="/_astro/AdminLayout.astro_astro_type_script_index_0_lang.B1qyElhi.js"></script><!-- Injected JSON: labels + config (built by Astro) — MUST run before page scripts --><script>window.ADMIN = {"ui":{"app_title":"Quản trị nội dung — Tượng Phật Văn Nhân","app_name":"Quản trị nội dung","app_short":"TP","file_label_default":"index.json","login":{"title":"Đăng nhập Quản trị","subtitle":"Vui lòng nhập tài khoản được cấp","email":"Email","password":"Mật khẩu","button":"Đăng nhập","google":"Đăng nhập với Google","error":"Sai thông tin đăng nhập hoặc lỗi kết nối!"},"topbar":{"view_web":"Xem web","logout":"Đăng xuất","test_badge":"🧪 TEST MODE (local)"},"savebar":{"no_changes":"Chưa có thay đổi","changes":" thay đổi chưa lưu","save":"Lưu & Xuất bản","saving":"Đang lưu...","retranslate":"Dịch lại toàn bộ (EN)","retranslate_title":"Xóa mọi en/*.json và dịch lại toàn bộ"},"hint":"Mỗi trường có 2 ô nhập: VI (tiếng Việt — ngôn ngữ gốc) và EN (tiếng Anh). Sửa ô VI sẽ tự động dịch lại đúng trường đó sang EN khi xuất bản. Sửa ô EN trực tiếp sẽ dùng đúng chữ bạn nhập.","loading":"Đang tải nội dung...","fields":"trường","files":{"index":"Trang chủ (index.json)","products":"Sản phẩm (products.json)","blog":"Tin tức (blog.json)"},"badges":{"override":"Đã tùy chỉnh","text":"Văn bản","image":"Ảnh","link":"Liên kết"},"vi_root":"VI (gốc)","choose_image":"Chọn ảnh...","image_modal":{"title":"Chọn ảnh","upload":"Tải ảnh mới lên","cancel":"Hủy","select":"Chọn"},"sections":{"site":"Thông tin chung","nav":"Menu / Điều hướng","topbar":"Thanh trên cùng","hero":"Phần giới thiệu (Hero)","materials":"Chất liệu","about":"Giới thiệu","products":"Sản phẩm","services":"Dịch vụ","features":"Điểm nổi bật","stats":"Số liệu thống kê","albums":"Album","news":"Tin tức (trang chủ)","cta":"Kêu gọi hành động","contact":"Liên hệ","footer":"Chân trang","filters":"Bộ lọc","posts":"Bài viết","pagination":"Phân trang","newsletter":"Nhận tin","breadcrumb":"Đường dẫn (breadcrumb)","page":"Trang","detail":"Trang chi tiết"},"toast":{"saved":"Đã lưu thành công! Website đang được build lại.","save_failed":"Thất bại: ","no_worker":"Chưa cấu hình worker — đã tải file thay đổi để commit thủ công.","test_mode":"Chế độ TEST local","uploaded":"Đã tải lên {name} — sẽ lưu kèm khi bấm Lưu","pick_image":"Hãy chọn một ảnh","picked":"Đã chọn ảnh {name}","retranslate_test":"Chế độ TEST: dịch lại toàn bộ cần backend. Chạy thủ công: npm run build:retranslate (trong dev/src)","retranslate_no_worker":"Chưa cấu hình worker. Chạy thủ công: npm run build:retranslate (trong dev/src)"},"confirm":{"retranslate":"Dịch lại toàn bộ trang sang EN? \n\nThao tác này XÓA mọi en/*.json và en/admin_*.json rồi dịch lại từ tiếng Việt. Các tùy chỉnh tiếng Anh thủ công sẽ bị mất."},"dashboard":{"title":"Viết bài / Thêm nội dung mới","manage_title":"Quản trị nội dung website (sửa chữ, ảnh mọi ngôn ngữ)","home":"Trang chủ","products":"Sản phẩm","blog":"Tin tức","post_title":"Tiêu đề bài viết","slug":"Đường dẫn (Slug)","content":"Nội dung (Markdown)","publish":"Xuất bản lên GitHub","publishing":"Đang đẩy lên GitHub...","published":"Xuất bản thành công!","failed":"Thất bại: ","system_error":"Lỗi hệ thống","placeholder_title":"Nhập tiêu đề...","placeholder_slug":"duong-dan-bai-viet","placeholder_content":"Viết nội dung dạng Markdown ở đây...","status_publish":"Xuất bản lên GitHub","dev_badge":"🧪 TEST MODE (local)"}},"config":{"activeTheme":"theme_a_refer_greensoftware.foundation","themes":["theme_a_refer_greensoftware.foundation","theme_a_Quiet_Glam_Atelier","theme_b_"],"languages":["vi","en"],"defaultLanguage":"vi","contentFiles":["index","products","blog"],"output":{"vi":".","en":"en"},"translation":{"engine":"argostranslate","from":"vi","to":"en"},"admin":{"supabase_url":"https://bznaxubvitgqoizffjsh.supabase.co","supabase_anon_key":"sb_publishable_s58Afz3H6BdffHM-n_kPgA_qR1p8DlU","worker_api_url":"https://bitter-butterfly-c129.nvtuan1689.workers.dev","login_redirect":"/admin/edit/","publishAdminTest":false}},"testMode":false,"page":"editor","file":"index","files":{"index":"Trang chủ (index.json)","products":"Sản phẩm (products.json)","blog":"Tin tức (blog.json)"}};</script><style>.field-row[data-astro-cid-2kanml4j]{transition:background .15s ease}.field-row[data-astro-cid-2kanml4j].is-changed{background:#fefce8}.badge-override[data-astro-cid-2kanml4j]{background:#dcfce7;color:#15803d}.badge-changed[data-astro-cid-2kanml4j]{background:#fef9c3;color:#a16207}.hidden[data-astro-cid-2kanml4j]{display:none!important}
+</style></head> <body class="bg-gray-50 font-sans text-gray-900 antialiased" data-astro-cid-2kanml4j> <!-- ======================= LOGIN VIEW ======================= --> <div id="login-view" class="hidden min-h-screen flex items-center justify-center p-4" data-astro-cid-2kanml4j> <div class="w-full max-w-md bg-white p-8 rounded-xl shadow-md border border-gray-100" data-astro-cid-2kanml4j> <h1 class="text-2xl font-bold text-gray-800 text-center" data-astro-cid-2kanml4j>Đăng nhập Quản trị</h1> <p class="text-sm text-gray-500 mt-1 text-center mb-6" data-astro-cid-2kanml4j>Vui lòng nhập tài khoản được cấp</p> <form id="login-form" class="space-y-4" onsubmit="handleLogin(event)" data-astro-cid-2kanml4j> <div data-astro-cid-2kanml4j> <label class="block text-sm font-medium text-gray-700 mb-1" data-astro-cid-2kanml4j>Email</label> <input type="email" id="email" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-sm" data-astro-cid-2kanml4j> </div> <div data-astro-cid-2kanml4j> <label class="block text-sm font-medium text-gray-700 mb-1" data-astro-cid-2kanml4j>Mật khẩu</label> <input type="password" id="password" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-sm" data-astro-cid-2kanml4j> </div> <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-2.5 rounded-lg transition text-sm" data-astro-cid-2kanml4j> Đăng nhập </button> <button type="button" onclick="handleGoogleLogin()" class="w-full flex items-center justify-center gap-3 border border-gray-300 hover:bg-gray-50 text-gray-700 font-medium py-2.5 rounded-lg transition text-sm" data-astro-cid-2kanml4j> Đăng nhập với Google </button> <p id="login-error" class="text-red-500 text-xs text-center mt-2 hidden" data-astro-cid-2kanml4j></p> </form> </div> </div> <!-- ======================= EDITOR VIEW ======================= --> <div id="editor-view" class="hidden min-h-screen" data-astro-cid-2kanml4j> <!-- Top bar --> <header class="sticky top-0 z-40 bg-pine-dark text-white shadow-md" data-astro-cid-2kanml4j> <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-3 flex-wrap" data-astro-cid-2kanml4j> <div class="flex items-center gap-3" data-astro-cid-2kanml4j> <span class="h-9 w-9 rounded-xl bg-white/10 flex items-center justify-center font-extrabold text-lime" data-astro-cid-2kanml4j>TP</span> <div data-astro-cid-2kanml4j> <h1 class="text-sm font-bold leading-tight" data-astro-cid-2kanml4j>Quản trị nội dung</h1> <p class="text-[11px] text-white/60" id="file-label" data-astro-cid-2kanml4j>index.json</p> <span id="dev-badge" class="hidden mt-0.5 inline-flex items-center gap-1 rounded-full bg-amber-400 px-2 py-0.5 text-[10px] font-bold text-amber-900" data-astro-cid-2kanml4j>🧪 TEST MODE (local)</span> </div> </div> <div class="flex items-center gap-2 flex-wrap" data-astro-cid-2kanml4j> <select id="file-select" class="bg-white/10 border border-white/20 text-white text-sm rounded-lg px-3 py-2" data-astro-cid-2kanml4j> <option value="index" data-astro-cid-2kanml4j>Trang chủ (index.json)</option> <option value="products" data-astro-cid-2kanml4j>Sản phẩm (products.json)</option> <option value="blog" data-astro-cid-2kanml4j>Tin tức (blog.json)</option> </select> <button onclick="openSite()" class="px-3 py-2 text-sm rounded-lg bg-white/10 hover:bg-white/20" data-astro-cid-2kanml4j>Xem web</button> <button onclick="handleLogout()" class="px-3 py-2 text-sm rounded-lg bg-red-500/80 hover:bg-red-600" data-astro-cid-2kanml4j>Đăng xuất</button> </div> </div> </header>   <div class="sticky top-[57px] z-30 bg-white border-b border-gray-200 shadow-sm" data-astro-cid-2kanml4j> <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-3 flex-wrap" data-astro-cid-2kanml4j> <div class="flex items-center gap-2 text-xs text-gray-500" data-astro-cid-2kanml4j> <span class="inline-flex items-center gap-1" data-astro-cid-2kanml4j> <span class="h-2 w-2 rounded-full bg-gray-300" data-astro-cid-2kanml4j></span> <span id="save-status" data-astro-cid-2kanml4j>Chưa có thay đổi</span> </span> </div> <div class="flex items-center gap-2" data-astro-cid-2kanml4j> <button onclick="confirmRetranslate()" title="Xóa mọi en/*.json và dịch lại toàn bộ" class="px-4 py-2 text-sm rounded-lg border border-amber-300 text-amber-700 hover:bg-amber-50" data-astro-cid-2kanml4j> Dịch lại toàn bộ (EN) </button> <button onclick="saveAll()" id="save-btn" class="px-5 py-2 text-sm rounded-lg bg-leaf text-white font-semibold hover:bg-pine disabled:opacity-50" data-astro-cid-2kanml4j> Lưu &amp; Xuất bản </button> </div> </div> </div>  <div class="max-w-6xl mx-auto px-4 pt-4" data-astro-cid-2kanml4j> <div class="flex items-center gap-3 text-xs rounded-xl bg-leaf-pale border border-leaf/20 px-4 py-3 text-pine" data-astro-cid-2kanml4j> <svg class="h-4 w-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" data-astro-cid-2kanml4j><path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" data-astro-cid-2kanml4j></path></svg> <span data-astro-cid-2kanml4j>Mỗi trường có 2 ô nhập: VI (tiếng Việt — ngôn ngữ gốc) và EN (tiếng Anh). Sửa ô VI sẽ tự động dịch lại đúng trường đó sang EN khi xuất bản. Sửa ô EN trực tiếp sẽ dùng đúng chữ bạn nhập.</span> </div> </div>   <!-- Form --><main class="max-w-6xl mx-auto px-4 py-6 w-full"> <div id="loading" class="text-center py-20 text-gray-400">Đang tải nội dung...</div> <form id="content-form" class="hidden space-y-8"></form> </main> <!-- Image picker modal --> <div id="image-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50" onclick="closeImageModal(event)"> <div class="w-full max-w-3xl bg-white rounded-xl shadow-xl p-6" onclick="event.stopPropagation()"> <div class="flex items-center justify-between mb-4"> <h3 class="text-lg font-bold text-gray-800">Chọn ảnh</h3> <button onclick="closeImageModal()" class="text-gray-400 hover:text-gray-600 text-xl">&times;</button> </div> <div class="grid grid-cols-4 gap-3 max-h-[50vh] overflow-y-auto" id="image-picker-grid"></div> <div class="mt-4 flex items-center justify-between gap-3 flex-wrap"> <label class="inline-flex items-center gap-2 text-sm text-blue-600 cursor-pointer"> Tải ảnh mới lên <input type="file" accept="image/*" class="hidden" id="image-upload-input"> </label> <div class="flex gap-2"> <button onclick="closeImageModal()" class="px-4 py-2 text-sm rounded-lg border border-gray-300 hover:bg-gray-50">Hủy</button> <button onclick="confirmImagePick()" class="px-4 py-2 text-sm rounded-lg bg-blue-600 text-white hover:bg-blue-700">Chọn</button> </div> </div> </div> </div> <!-- Injected by Astro (inline expressions don't run inside <script is:inline>) --> <script>var DATA_BASE = "/admin/"; // '/admin/' or '/admin_test/'</script> <script>
+  // ---- Editor state ----
+  var CONFIG = window.ADMIN.config || {};
+  var UI = window.ADMIN.ui || {};
+  var langs = (CONFIG.languages && CONFIG.languages.length) ? CONFIG.languages : ['vi', 'en'];
+  var langs = (CONFIG.languages && CONFIG.languages.length) ? CONFIG.languages : ['vi', 'en'];
+  var defaultLang = CONFIG.defaultLanguage || 'vi';
+  var file = new URLSearchParams(location.search).get('file') || window.ADMIN.file || 'index';
+
+  var IMAGE_KEYS = ['image', 'banner_image', 'hero_image', 'about_image'];
+  var SKIP_PATHS = ['_comment', 'site_keywords'];
+
+  var base = {};
+  var adminBase = {};
+  var current = {};
+  var changed = { vi: {}, en: {} };
+  var imagesList = [];
+  var pendingUploads = {};
+
+  // ---- JSON helpers ----
+  function clone(o) { return JSON.parse(JSON.stringify(o)); }
+  function mergeDeep(baseObj, patch) {
+    var out = clone(baseObj);
+    function apply(target, p) {
+      for (var k in (p || {})) {
+        var v = p[k];
+        if (v && typeof v === 'object' && !Array.isArray(v) && target[k] && typeof target[k] === 'object' && !Array.isArray(target[k])) {
+          apply(target[k], v);
+        } else if (Array.isArray(v) && Array.isArray(target[k])) {
+          v.forEach(function (item, i) {
+            if (item && typeof item === 'object' && target[k][i]) apply(target[k][i], item);
+            else target[k][i] = clone(item);
+          });
+        } else {
+          target[k] = clone(v);
+        }
+      }
+    }
+    apply(out, patch);
+    return out;
+  }
+  function flatten(obj, prefix, out) {
+    out = out || {};
+    prefix = prefix || '';
+    if (obj === null || obj === undefined) { out[prefix] = ''; return out; }
+    if (Array.isArray(obj)) {
+      if (obj.length === 0) { out[prefix] = ''; return out; }
+      obj.forEach(function (item, i) { flatten(item, prefix ? prefix + '.' + i : String(i), out); });
+      return out;
+    }
+    if (typeof obj === 'object') {
+      var keys = Object.keys(obj);
+      if (keys.length === 0) { out[prefix] = ''; return out; }
+      keys.forEach(function (k) { flatten(obj[k], prefix ? prefix + '.' + k : k, out); });
+      return out;
+    }
+    out[prefix] = obj;
+    return out;
+  }
+  function setNested(root, path, value) {
+    var parts = path.split('.');
+    var node = root;
+    for (var i = 0; i < parts.length - 1; i++) {
+      var p = parts[i];
+      if (/^\d+$/.test(p)) {
+        if (!Array.isArray(node)) node = [];
+        var idx = parseInt(p, 10);
+        while (node.length <= idx) node.push({});
+        node = node[idx];
+      } else {
+        if (!node[p] || typeof node[p] !== 'object') node[p] = {};
+        node = node[p];
+      }
+    }
+    var last = parts[parts.length - 1];
+    if (/^\d+$/.test(last)) {
+      if (!Array.isArray(node)) node = [];
+      var i2 = parseInt(last, 10);
+      while (node.length <= i2) node.push(null);
+      node[i2] = value;
+    } else {
+      node[last] = value;
+    }
+  }
+  function buildNested(paths, values) {
+    var root = {};
+    paths.forEach(function (p) { setNested(root, p, values[p]); });
+    return root;
+  }
+  function getAt(obj, path) {
+    var node = obj;
+    for (var i = 0; i < path.split('.').length; i++) {
+      var p = path.split('.')[i];
+      if (/^\d+$/.test(p)) node = node ? node[parseInt(p, 10)] : undefined;
+      else node = node ? node[p] : undefined;
+    }
+    return node;
+  }
+  function isImagePath(path) {
+    var leaf = path.split('.').pop();
+    return IMAGE_KEYS.indexOf(leaf) !== -1 || leaf.endsWith('_image') || leaf.endsWith('_img');
+  }
+  function isUrlPath(path) {
+    var leaf = path.split('.').pop();
+    return leaf.endsWith('_url') || leaf === 'url' || leaf === 'website' || leaf.endsWith('_embed') || leaf.endsWith('_facebook') || leaf.endsWith('_tiktok') || leaf === 'email' || leaf.endsWith('_email') || leaf.endsWith('_phone') || leaf.endsWith('_phone_2');
+  }
+
+  // ---- Loading (nội dung = snapshot JSON trong dist/admin/data/) ----
+  function fetchJson(url) {
+    return fetch(url).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; });
+  }
+
+  function loadContentData() {
+    base = {}; adminBase = {}; current = {};
+    return Promise.all(langs.map(function (lang) {
+      return Promise.all([
+        fetchJson(DATA_BASE + 'data/' + lang + '/' + file + '.json').then(function (d) { base[lang] = d || {}; }),
+        fetchJson(DATA_BASE + 'data/' + lang + '/admin_' + file + '.json').then(function (d) { adminBase[lang] = d || {}; })
+      ]).then(function () {
+        current[lang] = flatten(mergeDeep(base[lang], adminBase[lang]));
+      });
+    })).then(loadImages);
+  }
+
+  function loadImages() {
+    return fetchJson(DATA_BASE + 'data/images.json').then(function (manifest) {
+      imagesList = (manifest && Array.isArray(manifest)) ? manifest : ['product-1.jpg','product-2.jpg','product-3.jpg','product-4.jpg','product-5.jpg','hero.jpg','about.jpg'];
+    });
+  }
+
+  // ---- Rendering ----
+  function sectionTitle(name) {
+    return (UI.sections && UI.sections[name]) || name;
+  }
+
+  function renderForm() {
+    document.getElementById('loading').classList.add('hidden');
+    var form = document.getElementById('content-form');
+    form.classList.remove('hidden');
+    form.innerHTML = '';
+
+    var allPaths = [];
+    var seen = {};
+    langs.forEach(function (lang) {
+      Object.keys(current[lang] || {}).forEach(function (p) {
+        if (SKIP_PATHS.indexOf(p) !== -1) return;
+        if (!seen[p]) { seen[p] = true; allPaths.push(p); }
+      });
+    });
+    allPaths.sort();
+
+    var groups = {};
+    allPaths.forEach(function (p) {
+      var g = p.split('.')[0];
+      (groups[g] = groups[g] || []).push(p);
+    });
+
+    Object.keys(groups).forEach(function (g) {
+      var section = document.createElement('section');
+      section.className = 'bg-white rounded-2xl border border-gray-200 shadow-sm overflow-hidden';
+      var head = document.createElement('div');
+      head.className = 'px-5 py-3 bg-gray-50 border-b border-gray-200 flex items-center justify-between';
+      head.innerHTML = '<h2 class="text-sm font-bold text-gray-700">' + sectionTitle(g) + '</h2>' +
+        '<span class="text-[11px] text-gray-400">' + groups[g].length + ' ' + UI.fields + '</span>';
+      section.appendChild(head);
+      var body = document.createElement('div');
+      body.className = 'divide-y divide-gray-100';
+      groups[g].forEach(function (path) { body.appendChild(renderField(path)); });
+      section.appendChild(body);
+      form.appendChild(section);
+    });
+    updateStatus();
+  }
+
+  function renderField(path) {
+    var row = document.createElement('div');
+    row.className = 'field-row px-5 py-4';
+    row.dataset.path = path;
+    row.id = 'row-' + path.replace(/[^a-zA-Z0-9]/g, '-');
+
+    var isImg = isImagePath(path);
+    var isUrl = isUrlPath(path);
+    var values = {};
+    langs.forEach(function (lang) { values[lang] = current[lang][path] !== undefined ? current[lang][path] : ''; });
+
+    var head = document.createElement('div');
+    head.className = 'flex items-center justify-between gap-2 mb-2';
+    var title = document.createElement('div');
+    title.className = 'flex items-center gap-2 flex-wrap';
+    title.innerHTML = '<code class="text-xs font-mono text-gray-500">' + path + '</code>';
+    var badges = document.createElement('div');
+    badges.className = 'flex items-center gap-1';
+    var overridden = langs.some(function (l) { return getAt(adminBase[l] || {}, path) !== undefined; });
+    if (overridden) badges.innerHTML += '<span class="text-[10px] px-2 py-0.5 rounded-full badge-override font-semibold">' + UI.badges.override + '</span>';
+    badges.innerHTML += '<span class="text-[10px] px-2 py-0.5 rounded-full bg-gray-100 text-gray-500 font-semibold">' + (isImg ? UI.badges.image : isUrl ? UI.badges.link : UI.badges.text) + '</span>';
+    head.appendChild(title);
+    head.appendChild(badges);
+    row.appendChild(head);
+
+    var grid = document.createElement('div');
+    grid.className = 'grid gap-3 md:grid-cols-2';
+    langs.forEach(function (lang) {
+      var wrap = document.createElement('div');
+      var label = document.createElement('label');
+      label.className = 'block text-[11px] font-bold uppercase tracking-wider mb-1 ' + (lang === defaultLang ? 'text-leaf' : 'text-blue-600');
+      label.textContent = lang === defaultLang ? lang.toUpperCase() + ' ' + UI.vi_root : lang.toUpperCase();
+      wrap.appendChild(label);
+
+      if (isImg) {
+        var picker = document.createElement('div');
+        picker.className = 'flex items-center gap-3';
+        var img = document.createElement('img');
+        img.className = 'h-14 w-14 object-cover rounded-lg border border-gray-200 bg-gray-50';
+        img.alt = 'preview';
+        var imgUrl = '/images/' + (values[lang] || '');
+        img.src = imgUrl;
+        img.onerror = function () { this.src = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56"><rect width="100%" height="100%" fill="%23e5e7eb"/></svg>'; };
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'px-3 py-2 text-xs rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50';
+        btn.textContent = UI.choose_image;
+        btn.onclick = function () { openImageModal(path, lang); };
+        var hidden = document.createElement('input');
+        hidden.type = 'hidden';
+        hidden.dataset.lang = lang;
+        hidden.name = 'field-' + path;
+        hidden.value = values[lang] || '';
+        picker.appendChild(img);
+        picker.appendChild(btn);
+        picker.appendChild(hidden);
+        wrap.appendChild(picker);
+      } else {
+        var isLong = (values[lang] || '').length > 90 || (values[lang] || '').indexOf('\n') !== -1;
+        var input = document.createElement(isLong ? 'textarea' : 'input');
+        input.rows = 3;
+        input.type = 'text';
+        input.dataset.lang = lang;
+        input.name = 'field-' + path;
+        input.value = values[lang] || '';
+        input.className = 'w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none text-sm';
+        if (isUrl) input.className += ' font-mono text-xs';
+        input.addEventListener('input', function () { markChanged(path, lang, this.value); });
+        wrap.appendChild(input);
+      }
+      grid.appendChild(wrap);
+    });
+    row.appendChild(grid);
+    return row;
+  }
+
+  function markChanged(path, lang, value) {
+    var prev = current[lang][path];
+    current[lang][path] = value;
+    var changedMap = (changed[lang] = changed[lang] || {});
+    var baseVal = getAt(base[lang] || {}, path);
+    if (String(value) !== String(baseVal === undefined ? '' : baseVal)) {
+      changedMap[path] = value;
+      var row = document.getElementById('row-' + path.replace(/[^a-zA-Z0-9]/g, '-'));
+      if (row) row.classList.add('is-changed');
+    } else {
+      delete changedMap[path];
+      var row2 = document.getElementById('row-' + path.replace(/[^a-zA-Z0-9]/g, '-'));
+      if (row2) row2.classList.remove('is-changed');
+    }
+    updateStatus();
+  }
+
+  function updateStatus() {
+    var total = Object.keys(changed.vi || {}).length + Object.keys(changed.en || {}).length;
+    var el = document.getElementById('save-status');
+    if (el) el.textContent = total > 0 ? total + UI.savebar.changes : UI.savebar.no_changes;
+    var saveBtn = document.getElementById('save-btn');
+    if (saveBtn) {
+      saveBtn.disabled = total === 0;
+      saveBtn.className = 'px-5 py-2 text-sm rounded-lg font-semibold ' + (total > 0 ? 'bg-leaf text-white hover:bg-pine' : 'bg-gray-300 text-gray-500 cursor-not-allowed');
+    }
+  }
+
+  // ---- Image picker ----
+  var imagePickTarget = null;
+  function openImageModal(path, lang) {
+    imagePickTarget = { path: path, lang: lang };
+    var grid = document.getElementById('image-picker-grid');
+    grid.innerHTML = '';
+    imagesList.forEach(function (name) {
+      var cell = document.createElement('button');
+      cell.type = 'button';
+      cell.className = 'rounded-lg overflow-hidden border-2 border-transparent hover:border-blue-500';
+      cell.dataset.name = name;
+      var img = document.createElement('img');
+      img.src = '/images/' + name;
+      img.className = 'w-full h-24 object-cover';
+      img.alt = name;
+      img.onerror = function () { cell.style.opacity = '0.3'; };
+      cell.appendChild(img);
+      var cap = document.createElement('div');
+      cap.className = 'text-[10px] text-center py-1 text-gray-500 truncate px-1';
+      cap.textContent = name;
+      cell.appendChild(cap);
+      cell.onclick = function () {
+        Array.prototype.forEach.call(grid.querySelectorAll('button'), function (b) { b.classList.remove('border-blue-500'); });
+        cell.classList.add('border-blue-500');
+        imagePickTarget.name = name;
+      };
+      grid.appendChild(cell);
+    });
+    document.getElementById('image-modal').classList.remove('hidden');
+  }
+  function closeImageModal(e) {
+    if (e && e.target !== document.getElementById('image-modal')) return;
+    document.getElementById('image-modal').classList.add('hidden');
+    imagePickTarget = null;
+  }
+  function confirmImagePick() {
+    if (!imagePickTarget || !imagePickTarget.name) { toast(UI.toast.pick_image, 'error'); return; }
+    var path = imagePickTarget.path, lang = imagePickTarget.lang, name = imagePickTarget.name;
+    current[lang][path] = name;
+    markChanged(path, lang, name);
+    closeImageModal();
+    renderForm();
+    toast(UI.toast.picked.replace('{name}', name));
+  }
+  document.addEventListener('change', function (e) {
+    if (e.target && e.target.id === 'image-upload-input' && e.target.files && e.target.files[0]) {
+      var reader = new FileReader();
+      reader.onload = function () {
+        var name = e.target.files[0].name.replace(/[^a-zA-Z0-9._-]/g, '_');
+        pendingUploads[name] = reader.result;
+        toast(UI.toast.uploaded.replace('{name}', name));
+        if (imagePickTarget) { imagePickTarget.name = name; confirmImagePick(); }
+      };
+      reader.readAsDataURL(e.target.files[0]);
+    }
+  });
+
+  // ---- Save ----
+  function saveAll() {
+    var viChanges = Object.keys(changed.vi || {}).filter(function (p) { return current.vi[p] !== undefined; });
+    var enChanges = Object.keys(changed.en || {}).filter(function (p) { return current.en[p] !== undefined; });
+    var enManual = enChanges.filter(function (p) { return viChanges.indexOf(p) === -1; });
+    var retranslate = viChanges;
+
+    var payload = {
+      type: 'content-save',
+      file: file,
+      languages: langs,
+      defaultLanguage: defaultLang,
+      viOverrides: buildNested(viChanges, current.vi),
+      enOverrides: buildNested(enManual, current.en),
+      retranslate: retranslate,
+      viValues: viChanges.reduce(function (o, p) { o[p] = current.vi[p]; return o; }, {}),
+      images: pendingUploads
+    };
+
+    if (WORKER_API_URL && !DEV_MODE) { postToWorker(payload); } else { downloadFallback(payload); }
+  }
+
+  async function postToWorker(payload) {
+    var token = localStorage.getItem('supabase_token');
+    var btn = document.getElementById('save-btn');
+    btn.disabled = true; btn.textContent = UI.savebar.saving;
+    try {
+      var res = await fetch(WORKER_API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + (token || '') },
+        body: JSON.stringify(payload)
+      });
+      var result = await res.json();
+      if (res.ok && result.success) {
+        toast(UI.toast.saved);
+        changed = { vi: {}, en: {} };
+        pendingUploads = {};
+        renderForm();
+      } else {
+        toast(UI.toast.save_failed + (result.error || UI.dashboard.system_error), 'error');
+      }
+    } catch (err) {
+      toast(UI.toast.save_failed + err.message, 'error');
+      downloadFallback(payload);
+    } finally {
+      btn.disabled = false; btn.textContent = UI.savebar.save;
+    }
+  }
+
+  function downloadFallback(payload) {
+    var blob = new Blob([JSON.stringify({ ...payload, _note: 'Lưu các file dưới đây vào dev/src/content/ rồi chạy: node scripts/build.mjs --translate' }, null, 2)], { type: 'application/json' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'admin_' + payload.file + '_changes.json';
+    a.click();
+    URL.revokeObjectURL(a.href);
+    toast((DEV_MODE ? UI.toast.test_mode + ' — ' : '') + UI.toast.no_worker, 'error');
+  }
+
+  function confirmRetranslate() {
+    if (!confirm(UI.confirm.retranslate)) return;
+    if (DEV_MODE) {
+      toast(UI.toast.retranslate_test, 'error');
+      return;
+    }
+    if (WORKER_API_URL) { postToWorker({ type: 'content-retranslate' }); }
+    else { toast(UI.toast.retranslate_no_worker, 'error'); }
+  }
+
+  function openSite() {
+    var target = file === 'products' ? '/vi/products/' : file === 'blog' ? '/vi/blog/' : '/';
+    window.open(target, '_blank');
+  }
+
+  function startEditor() {
+    var fs = document.getElementById('file-select');
+    if (fs) fs.value = file;
+    var fl = document.getElementById('file-label');
+    if (fl) fl.textContent = (UI.files[file] || file + '.json');
+    document.getElementById('loading').classList.remove('hidden');
+    loadContentData().then(renderForm).catch(function (e) {
+      document.getElementById('loading').textContent = 'Không tải được dữ liệu (data/*.json). Hãy chạy lại build. ' + e.message;
+    });
+  }
+
+  var fsSel = document.getElementById('file-select');
+  if (fsSel) {
+    fsSel.addEventListener('change', function () {
+      file = this.value;
+      history.replaceState(null, '', '?file=' + file);
+      startEditor();
+    });
+  }
+
+  window.onAdminReady = startEditor;
+</script>  <!-- Save result toast --> <div id="toast" class="hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-50 max-w-lg w-full px-4" data-astro-cid-2kanml4j> <div class="rounded-xl px-5 py-4 text-sm font-medium shadow-lg bg-gray-900 text-white" id="toast-body" data-astro-cid-2kanml4j></div> </div> </div> <!-- Shared auth / shell logic --> <script>
+    // Reads values injected by Astro (content/admin/ui.json + admin/config.json)
+    var CONFIG = window.ADMIN.config || {};
+    var UI = window.ADMIN.ui || {};
+    var ADMIN_PAGE = window.ADMIN.page;
+    var ADMIN_FILE = window.ADMIN.file;
+    var TEST_MODE = !!window.ADMIN.testMode;
+    // TEST_MODE is set at build time ONLY for the admin_test copy.
+    // The main admin (/admin/) never enters test mode and has no ?dev=1 bypass.
+    var DEV_MODE = TEST_MODE;
+
+    var SUPABASE_FALLBACK = { url: 'https://bznaxubvitgqoizffjsh.supabase.co', anon: 'sb_publishable_s58Afz3H6BdffHM-n_kPgA_qR1p8DlU' };
+    var SUPABASE_URL = (CONFIG.admin && CONFIG.admin.supabase_url) || SUPABASE_FALLBACK.url;
+    var SUPABASE_ANON_KEY = (CONFIG.admin && CONFIG.admin.supabase_anon_key) || SUPABASE_FALLBACK.anon;
+    var WORKER_API_URL = (CONFIG.admin && CONFIG.admin.worker_api_url) || '';
+    var supabaseClient = (typeof supabase !== 'undefined') ? supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY) : null;
+
+    function showLogin() {
+      document.getElementById('login-view').classList.remove('hidden');
+      document.getElementById('editor-view').classList.add('hidden');
+    }
+
+    function showEditor() {
+      document.getElementById('login-view').classList.add('hidden');
+      var ev = document.getElementById('editor-view');
+      ev.classList.remove('hidden');
+      ev.classList.add('flex');
+      ev.classList.add('flex-col');
+      var badge = document.getElementById('dev-badge');
+      if (badge) badge.classList.toggle('hidden', !DEV_MODE);
+      if (window.onAdminReady) window.onAdminReady();
+    }
+
+    async function initAuth() {
+      if (DEV_MODE) { showEditor(); return; }
+      var token = localStorage.getItem('supabase_token');
+      if (location.hash && new URLSearchParams(location.hash.substring(1)).get('access_token')) {
+        if (supabaseClient) {
+          var d = await supabaseClient.auth.getSession();
+          if (d.data.session) {
+            localStorage.setItem('supabase_token', d.data.session.access_token);
+            history.replaceState(null, '', location.pathname + location.search);
+            showEditor();
+            return;
+          }
+        }
+      }
+      if (token) { showEditor(); } else { showLogin(); }
+    }
+
+    async function handleLogin(e) {
+      e.preventDefault();
+      var err = document.getElementById('login-error');
+      err.classList.add('hidden');
+      if (!supabaseClient) { err.textContent = UI.login.error || 'Lỗi SDK'; err.classList.remove('hidden'); return; }
+      var r = await supabaseClient.auth.signInWithPassword({ email: document.getElementById('email').value, password: document.getElementById('password').value });
+      if (r.error) { err.textContent = UI.login.error; err.classList.remove('hidden'); return; }
+      var s = await supabaseClient.auth.getSession();
+      if (s.data.session) { localStorage.setItem('supabase_token', s.data.session.access_token); showEditor(); }
+    }
+
+    async function handleGoogleLogin() {
+      if (!supabaseClient) return;
+      await supabaseClient.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: window.location.origin + location.pathname + '?file=' + ADMIN_FILE } });
+    }
+
+    async function handleLogout() {
+      if (supabaseClient) await supabaseClient.auth.signOut();
+      localStorage.removeItem('supabase_token');
+      showLogin();
+    }
+
+    // toast helper used by pages
+    var toastTimer = null;
+    function toast(msg, type) {
+      var el = document.getElementById('toast');
+      var body = document.getElementById('toast-body');
+      if (!el || !body) return;
+      el.classList.remove('hidden');
+      body.textContent = msg;
+      body.className = 'rounded-xl px-5 py-4 text-sm font-medium shadow-lg ' + (type === 'error' ? 'bg-red-600 text-white' : 'bg-gray-900 text-white');
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(function () { el.classList.add('hidden'); }, 4000);
+    }
+
+    // Start: page scripts register window.onAdminReady before this script runs,
+    // so initAuth -> showEditor -> window.onAdminReady() is always defined.
+    initAuth();
+  </script> </body> </html>

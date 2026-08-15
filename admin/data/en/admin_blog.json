@@ -1,0 +1,31 @@
+{
+  "_comment": "Curated English overrides for the blog page. Merged on top of content/en/blog.json (admin wins). Edit via the admin dashboard.",
+  "page_title": "News – Van Nhan Buddha Statues",
+  "page_heading": "News & Knowledge",
+  "page_subtitle": "Useful articles and knowledge about worship, feng shui and Buddhist art.",
+  "page_banner_alt": "Van Nhan Buddha Statue news articles",
+  "breadcrumb_home": "Home",
+  "breadcrumb_current": "News",
+  "category_label": "Category",
+  "date_label": "Posted on",
+  "read_more": "Read more",
+  "pagination_prev": "Prev",
+  "pagination_next": "Next",
+  "no_posts": "No articles yet.",
+  "newsletter_title": "Get the latest from us",
+  "newsletter_text": "Subscribe to receive useful articles about worship, feng shui and Buddhist art.",
+  "newsletter_placeholder": "Your email",
+  "newsletter_button": "Subscribe",
+  "newsletter_success": "Thank you for subscribing!",
+  "posts": [
+    { "title": "Which Buddha statue to worship at home for peace and prosperity", "category": "Worship knowledge", "desc": "Worshipping Buddha at home is familiar to many Buddhists. Each statue carries its own meaning - so which one should you choose for luck and serenity?" },
+    { "title": "Photoluminescence applied in Buddha statue models", "category": "Crafting technology", "desc": "Van Nhan Buddha Statue applies modern technology to create halos that beautify Buddha statues at its Thu Duc studio." },
+    { "title": "Things to know when worshipping Maitreya Buddha", "category": "Worship knowledge", "desc": "Worshipping Maitreya Buddha is one of the indispensable beliefs in feng shui and Vietnamese Buddhism." },
+    { "title": "The meaning of Guanyin Bodhisattva and how to worship her", "category": "Worship knowledge", "desc": "Guanyin is the Bodhisattva of compassion. Learn the meaning of the statue and how to place it in your worship space." },
+    { "title": "The making of a Buddha statue, from sketch to finished piece", "category": "Crafting technology", "desc": "Follow the artisans of Van Nhan Buddha Statue through the process of creating a finished statue." },
+    { "title": "How to arrange a home Buddha altar in harmony with feng shui", "category": "Worship knowledge", "desc": "A well-arranged home altar brings peace and good fortune to the whole family." },
+    { "title": "Why restore an old venerated statue instead of replacing it?", "category": "Services", "desc": "Restoring old statues preserves the historical, cultural and spiritual value of ancient works." },
+    { "title": "Choosing a statue material: poly resin, AB resin or bronze?", "category": "Worship knowledge", "desc": "Each material has its own strengths in durability, looks and cost. This article helps you choose the right one." },
+    { "title": "Buddhist reliefs and the art of temple decoration", "category": "Buddhist art", "desc": "Relief carving is one of the most distinctive art forms in Vietnamese temple architecture." }
+  ]
+}

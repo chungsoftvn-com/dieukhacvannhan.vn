@@ -1,0 +1,151 @@
+{
+  "site_name": "Tượng Phật Văn Nhân",
+  "site_tagline": "Cơ sở điêu khắc mỹ thuật Phật giáo",
+  "site_description": "Cơ sở Tượng Phật Văn Nhân chuyên thi công các công trình điêu khắc mỹ thuật Phật giáo: tượng Phật ngoài trời, tượng thờ nội thất, phù điêu, hoa văn đình chùa, linh thú và biểu tượng pháp khí. Chế tác trên nhiều chất liệu: nhựa poly, nhựa AB, đồng, đá, gỗ, gốm, xốp.",
+  "site_keywords": "tượng phật, tượng phật văn nhân, phù điêu phật giáo, tượng quan âm, tượng thích ca, tượng di lạc, tượng đá, điêu khắc phật giáo",
+  "company_name": "Cơ sở Tượng Phật Văn Nhân",
+
+  "topbar_hotline": "Hotline",
+  "topbar_support": "Hỗ trợ khách hàng 24/7",
+  "lang_label": "Ngôn ngữ",
+  "lang_vi": "VI",
+  "lang_en": "EN",
+
+  "nav_home": "Trang chủ",
+  "nav_about": "Giới thiệu",
+  "nav_products": "Sản phẩm",
+  "nav_services": "Dịch vụ",
+  "nav_album": "Album",
+  "nav_news": "Tin tức",
+  "nav_contact": "Liên hệ",
+  "nav_cta": "091.445.1405",
+  "menu_open": "Mở menu",
+  "menu_close": "Đóng menu",
+  "skip_to_content": "Chuyển đến nội dung",
+
+  "hero_eyebrow": "Cơ sở điêu khắc mỹ thuật Phật giáo",
+  "hero_title": "Nghệ thuật điêu khắc Phật giáo, chế tác bằng tâm",
+  "hero_subtitle": "Chúng tôi thi công các công trình tượng Phật, phù điêu và trang trí đình chùa từ phác thảo đến thành phẩm, trên nhiều chất liệu: nhựa poly, nhựa AB, đồng, đá, gỗ, gốm, xốp.",
+  "hero_cta_primary": "Xem sản phẩm",
+  "hero_cta_secondary": "Liên hệ báo giá",
+  "hero_badge_1": "7 chất liệu chế tác",
+  "hero_badge_2": "Tùy chỉnh theo yêu cầu",
+  "hero_image_alt": "Tôn tượng Bồ Đề Đạo Tràng",
+
+  "materials_title": "Chất liệu chế tác",
+  "materials": ["Nhựa poly", "Nhựa AB", "Đồng", "Đá", "Gỗ", "Gốm", "Xốp"],
+
+  "about_eyebrow": "Giới thiệu",
+  "about_title": "Cơ sở Tượng Phật Văn Nhân",
+  "about_text_1": "Lời đầu tiên, Tượng Phật Văn Nhân xin kính chào quý vị phật tử cùng quý khách hàng gần xa. Kính chúc quý khách luôn mạnh khỏe và làm ăn phát đạt trên mọi lĩnh vực.",
+  "about_text_2": "Chúng tôi chuyên thi công các công trình điêu khắc mỹ thuật trang trí, đình chùa, hoa văn, vật phẩm, linh thú và các biểu tượng pháp khí: tượng ngoài trời, phục chế tôn tượng, trang trí sắp đặt, bố trí cảnh quan công viên chùa, phục dựng không gian bài trí, phù điêu Phật giáo.",
+  "about_text_3": "Bên cạnh đó, cơ sở còn gia công, sản xuất và cung ứng sản phẩm với nhiều chất liệu khác nhau như nhựa poly, nhựa AB, đồng, đá, gỗ, gốm, xốp, đáp ứng mọi nhu cầu về kích thước, kiểu dáng và màu sắc.",
+  "about_cta": "Xem thêm",
+  "about_image_alt": "Tôn tượng Phật Thích Ca",
+
+  "products_eyebrow": "Sản phẩm tiêu biểu",
+  "products_title": "Tượng Phật & Phù Điêu",
+  "products_subtitle": "Bộ sưu tập các tác phẩm tiêu biểu được chế tác tinh xảo, có thể tùy chỉnh theo yêu cầu khách hàng.",
+  "products_price_note": "Liên hệ báo giá",
+  "products_material": "Chất liệu",
+  "products_detail": "Chi tiết",
+  "products_cta": "Xem tất cả sản phẩm",
+  "products": [
+    { "name": "Quan Âm Tự Tại", "size": "Cao 1,2m", "image": "product-1.jpg", "url": "quan-am-tu-tai-cao-12m.html" },
+    { "name": "Tôn Tượng Phật Thích Ca", "size": "Cao 2,2m", "image": "about.jpg", "url": "ton-tuong-kim-than-phat-thich-ca-cao-22m.html" },
+    { "name": "Thích Ca Thiền Định", "size": "Cao 1,55m", "image": "product-3.jpg", "url": "thich-ca-thien-dinh-cao-1m55.html" },
+    { "name": "Hộ Pháp", "size": "Cao 1,8m", "image": "product-4.jpg", "url": "ho-phapcao-18m.html" },
+    { "name": "Quan Âm Tự Tại", "size": "Cao 1,6m", "image": "product-5.jpg", "url": "quan-am-tu-tai-cao16m.html" },
+    { "name": "Bồ Đề Đạo Tràng", "size": "Cao 1,2m", "image": "hero.jpg", "url": "ton-tuong-bo-de-dao-trang1.html" }
+  ],
+
+  "services_eyebrow": "Dịch vụ cung cấp",
+  "services_title": "Dịch vụ của chúng tôi",
+  "services_subtitle": "Trọn gói từ tư vấn, thiết kế đến thi công và hoàn thiện.",
+  "services": [
+    { "name": "Thiết kế & thi công trọn gói", "desc": "Thi công trọn gói các công trình điêu khắc Phật giáo từ phác thảo đến thành phẩm." },
+    { "name": "Phục hồi tượng cũ", "desc": "Phục hồi, bảo tồn tượng cũ và phù điêu cổ, phục dựng tôn tượng và không gian bài trí." },
+    { "name": "Tư vấn bài trí", "desc": "Tư vấn bài trí không gian thờ tự, cảnh quan chùa chiền và công viên chùa." },
+    { "name": "Đặt hàng theo mẫu", "desc": "Nhận đặt hàng theo mẫu, theo chất liệu và kích thước riêng của khách hàng." }
+  ],
+
+  "features_eyebrow": "Vì sao chọn chúng tôi",
+  "features_title": "Điêu khắc tinh xảo, tận tâm với từng chi tiết",
+  "features_subtitle": "Mỗi tác phẩm là sự kết hợp giữa bàn tay nghệ nhân và tâm huyết của người làm nghề.",
+  "features": [
+    { "name": "Chất liệu đa dạng", "desc": "Nhựa poly, nhựa AB, đồng, đá, gỗ, gốm, xốp – đáp ứng mọi kích thước, kiểu dáng và màu sắc." },
+    { "name": "Chế tác tinh xảo", "desc": "Mọi sản phẩm đều được chế tác tỉ mỉ, tôn vinh vẻ đẹp của tín ngưỡng và nghệ thuật." },
+    { "name": "Tùy chỉnh theo yêu cầu", "desc": "Đặt hàng theo mẫu, theo chất liệu và kích thước riêng, đúng như mong muốn của khách hàng." },
+    { "name": "Báo giá trực tiếp", "desc": "Giá bán được cập nhật theo liên hệ trực tiếp, nhận báo giá nhanh nhất khi liên hệ." }
+  ],
+
+  "stats_title": "Những con số ấn tượng",
+  "stats": [
+    { "num": "7", "label": "Chất liệu chế tác" },
+    { "num": "4", "label": "Nhóm sản phẩm chính" },
+    { "num": "24/7", "label": "Hỗ trợ khách hàng" },
+    { "num": "100%", "label": "Sản phẩm theo yêu cầu" }
+  ],
+
+  "albums_eyebrow": "Album ảnh",
+  "albums_title": "Quy trình sáng tác",
+  "albums_subtitle": "Ghi lại hành trình chế tác từ phác thảo đến thành phẩm.",
+  "albums": [
+    { "name": "Mỹ thuật Tượng Phật Văn Nhân", "desc": "Giới thiệu các tác phẩm tiêu biểu.", "image": "hero.jpg", "url": "my-thuat-tuong-phat-van-nhan.html" },
+    { "name": "Sáng tạo và điêu khắc tượng Phật", "desc": "Quá trình chế tác từ phác thảo đến thành phẩm.", "image": "product-1.jpg", "url": "sang-tao-va-dieu-khac-tuong-phat.html" },
+    { "name": "Cơ sở sản xuất", "desc": "Hình ảnh xưởng điêu khắc và đội ngũ nghệ nhân.", "image": "product-3.jpg", "url": "co-so-tuong-phat-van-nhan.html" }
+  ],
+
+  "news_eyebrow": "Tin tức",
+  "news_title": "Tin tức mới",
+  "news_subtitle": "Những bài viết và kiến thức hữu ích về thờ tự, phong thủy và nghệ thuật Phật giáo.",
+  "news_cta": "Chi tiết",
+  "news": [
+    { "title": "Nên thờ tượng Phật nào trong nhà mang lại bình an và hưng thịnh", "date": "04/09/2022", "desc": "Đối với các phật tử, việc thờ Phật tại gia không còn xa lạ. Mỗi tượng Phật đều mang ý nghĩa riêng, vậy nên thờ tượng Phật nào để may mắn và an nhiên?", "image": "product-4.jpg", "url": "nen-tho-tuong-phat-nao-trong-nha-mang-lai-binh-an-va-hung-thinh.html" },
+    { "title": "Hiện tượng quang phát quang ứng dụng trong các mẫu tượng Phật", "date": "04/09/2022", "desc": "Tượng Phật Văn Nhân ứng dụng công nghệ hiện đại tạo hào quang tô đẹp các mẫu tượng Phật của trại sáng tác ở Thủ Đức.", "image": "product-5.jpg", "url": "hien-tuong-quang-phat-quang-ung-dung-trong-cac-mau-tuong-phat.html" },
+    { "title": "Những điều cần biết khi thờ Phật Di Lặc", "date": "04/09/2022", "desc": "Thờ Phật Di Lặc là một trong những tín ngưỡng không thể thiếu trong phong thủy và Phật giáo Việt Nam.", "image": "product-2.jpg", "url": "nhung-dieu-can-biet-khi-tho-phat-di-lac.html" }
+  ],
+
+  "cta_title": "Cần tư vấn hoặc nhận báo giá?",
+  "cta_text": "Liên hệ ngay với chúng tôi để được tư vấn chi tiết và nhận báo giá nhanh nhất cho công trình của bạn.",
+  "cta_button_call": "Gọi ngay",
+  "cta_button_mail": "Gửi email",
+
+  "contact_eyebrow": "Liên hệ",
+  "contact_title": "Liên hệ với chúng tôi",
+  "contact_subtitle": "Hãy ghé thăm xưởng điêu khắc hoặc liên hệ qua các kênh dưới đây.",
+  "contact_address": "16/2 Đường số 44, Khu phố 8, Phường Hiệp Bình Chánh, TP. Thủ Đức, TP.HCM",
+  "contact_phone": "0914 451 405",
+  "contact_phone_2": "0962 572 449",
+  "contact_email": "tuongphatvannhan@gmail.com",
+  "contact_website": "https://dieukhacvannhan.vn",
+  "contact_tiktok": "https://www.tiktok.com/@tuongphatvannhan",
+  "contact_address_label": "Địa chỉ",
+  "contact_phone_label": "Điện thoại",
+  "contact_email_label": "Email",
+  "contact_website_label": "Website",
+  "contact_tiktok_label": "TikTok",
+  "contact_hours_label": "Giờ làm việc",
+  "contact_hours": "Thứ 2 – Chủ nhật: 07:30 – 17:30",
+  "contact_button": "Gọi ngay cho chúng tôi",
+  "contact_facebook": "https://www.tiktok.com/@tuongphatvannhan",
+  "contact_map_alt": "Bản đồ vị trí Cơ sở Tượng Phật Văn Nhân",
+  "contact_map_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15674.023359329793!2d106.7309359!3d10.8490782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd741ffcdde2c28fe!2zVMaw4bujbmcgUGjhuq10IFbEg24gTmjDom4!5e0!3m2!1svi!2s!4v1662289962711!5m2!1svi!2s",
+
+  "footer_about_title": "Về chúng tôi",
+  "footer_about_text": "Chuyên thi công các công trình điêu khắc mỹ thuật Phật giáo: tượng Phật, phù điêu, hoa văn đình chùa, linh thú và biểu tượng pháp khí.",
+  "footer_policy_title": "Chính sách",
+  "policies": [
+    { "name": "Bảo mật thông tin", "url": "bao-mat-thong-tin.html" },
+    { "name": "Chính sách bảo hành", "url": "chinh-sach-bao-hanh.html" },
+    { "name": "Chính sách vận chuyển", "url": "chinh-sach-van-chuyen.html" },
+    { "name": "Hướng dẫn mua hàng", "url": "huong-dan-mua-hang.html" }
+  ],
+  "footer_contact_title": "Liên hệ",
+  "footer_follow_title": "Theo dõi chúng tôi",
+  "footer_copyright": "Bản quyền ©",
+
+  "btn_call": "Gọi ngay",
+  "btn_zalo": "Zalo",
+  "back_to_top": "Lên đầu trang"
+}

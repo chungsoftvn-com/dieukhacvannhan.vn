@@ -1,0 +1,27 @@
+{
+  "activeTheme": "theme_a_refer_greensoftware.foundation",
+  "themes": [
+    "theme_a_refer_greensoftware.foundation",
+    "theme_a_Quiet_Glam_Atelier",
+    "theme_b_"
+  ],
+  "languages": ["vi", "en"],
+  "defaultLanguage": "vi",
+  "contentFiles": ["index", "products", "blog"],
+  "output": {
+    "vi": ".",
+    "en": "en"
+  },
+  "translation": {
+    "engine": "argostranslate",
+    "from": "vi",
+    "to": "en"
+  },
+  "admin": {
+    "supabase_url": "https://bznaxubvitgqoizffjsh.supabase.co",
+    "supabase_anon_key": "sb_publishable_s58Afz3H6BdffHM-n_kPgA_qR1p8DlU",
+    "worker_api_url": "https://bitter-butterfly-c129.nvtuan1689.workers.dev",
+    "login_redirect": "/admin/edit/",
+    "publishAdminTest": false
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "site_name": "Tượng Phật Văn Nhân",
+  "site_tagline": "Buddhist Fine-Art Sculpture Workshop",
+  "site_description": "Van Nhan Buddha Statue workshop specializes in Buddhist fine-art sculptures: outdoor Buddha statues, indoor worship statues, Buddhist reliefs, temple ornaments, sacred animals and ritual symbols. Crafted in poly resin, AB resin, bronze, stone, wood, ceramic and foam.",
+  "site_keywords": "tượng phật, tượng phật văn nhân, phù điêu phật giáo, tượng quan âm, tượng thích ca, tượng di lạc, tượng đá, điêu khắc phật giáo",
+  "company_name": "Van Nhan Buddha Statue Workshop",
+  "topbar_hotline": "Hotline",
+  "topbar_support": "Customer support 24/7",
+  "lang_label": "Language",
+  "lang_vi": "VI",
+  "lang_en": "EN",
+  "nav_home": "Home",
+  "nav_about": "About",
+  "nav_products": "Products",
+  "nav_services": "Services",
+  "nav_album": "Gallery",
+  "nav_news": "News",
+  "nav_contact": "Contact",
+  "nav_cta": "Order a statue",
+  "menu_open": "Open menu",
+  "menu_close": "Close menu",
+  "skip_to_content": "Skip to content",
+  "hero_eyebrow": "Buddhist Fine-Art Sculpture Workshop",
+  "hero_title": "Buddhist sculpture crafted with heart and skill",
+  "hero_subtitle": "We build Buddha statues, reliefs and temple decoration projects from sketch to finished piece, in poly resin, AB resin, bronze, stone, wood, ceramic and foam.",
+  "hero_cta_primary": "View products",
+  "hero_cta_secondary": "Request a quote",
+  "hero_badge_1": "7 crafting materials",
+  "hero_badge_2": "Custom-made on request",
+  "hero_image_alt": "Bodhi tree enlightenment statue",
+  "materials_title": "Crafting materials",
+  "materials": [
+    "Poly resin",
+    "AB resin",
+    "Bronze",
+    "Stone",
+    "Wood",
+    "Ceramic",
+    "Foam"
+  ],
+  "about_eyebrow": "About us",
+  "about_title": "Van Nhan Buddha Statue Workshop",
+  "about_text_1": "First of all, Van Nhan Buddha Statue respectfully greets Buddhists and valued customers near and far, and wishes everyone good health and prosperity in every field.",
+  "about_text_2": "We specialize in decorative fine-art sculpture projects for temples and pagodas: ornaments, ritual objects, sacred animals and ritual symbols, outdoor statues, restoration of venerable statues, display decoration, temple park landscaping and Buddhist reliefs.",
+  "about_text_3": "We also fabricate and supply products in many materials such as poly resin, AB resin, bronze, stone, wood, ceramic and foam, meeting every need of size, style and color.",
+  "about_cta": "Learn more",
+  "about_image_alt": "Statue of Shakyamuni Buddha",
+  "products_eyebrow": "Featured works",
+  "products_title": "Buddha Statues & Reliefs",
+  "products_subtitle": "A collection of typical works, crafted with care and customizable to your requirements.",
+  "products_price_note": "Contact for price",
+  "products_material": "Material",
+  "products_detail": "Details",
+  "products_cta": "View all products",
+  "products": [
+    {
+      "name": "Guanyin Bodhisattva",
+      "size": "Height 1.2m",
+      "image": "product-1.jpg",
+      "url": "quan-am-tu-tai-cao-12m.html"
+    },
+    {
+      "name": "Statue of Shakyamuni Buddha",
+      "size": "Height 2.2m",
+      "image": "about.jpg",
+      "url": "ton-tuong-kim-than-phat-thich-ca-cao-22m.html"
+    },
+    {
+      "name": "Shakyamuni in Meditation",
+      "size": "Height 1.55m",
+      "image": "product-3.jpg",
+      "url": "thich-ca-thien-dinh-cao-1m55.html"
+    },
+    {
+      "name": "Dharmapala Guardian",
+      "size": "Height 1.8m",
+      "image": "product-4.jpg",
+      "url": "ho-phapcao-18m.html"
+    },
+    {
+      "name": "Guanyin Bodhisattva",
+      "size": "Height 1.6m",
+      "image": "product-5.jpg",
+      "url": "quan-am-tu-tai-cao16m.html"
+    },
+    {
+      "name": "Bodhi Tree Enlightenment",
+      "size": "Height 1.2m",
+      "image": "hero.jpg",
+      "url": "ton-tuong-bo-de-dao-trang1.html"
+    }
+  ],
+  "services_eyebrow": "Our services",
+  "services_title": "What we offer",
+  "services_subtitle": "Turnkey service from consultation and design to construction and finishing.",
+  "services": [
+    {
+      "name": "Turnkey design & construction",
+      "desc": "Complete Buddhist sculpture projects from sketch to finished product."
+    },
+    {
+      "name": "Restoration of old statues",
+      "desc": "Restore and preserve old statues and ancient reliefs; restore venerable statues and display spaces."
+    },
+    {
+      "name": "Worship space consultation",
+      "desc": "Advice on arranging worship spaces, temple landscapes and temple parks."
+    },
+    {
+      "name": "Custom orders",
+      "desc": "We accept orders by sample, material and size at the customer's request."
+    }
+  ],
+  "features_eyebrow": "Why choose us",
+  "features_title": "Refined carving, devoted to every detail",
+  "features_subtitle": "Every piece is a blend of the artisan's hands and the heart of the craft.",
+  "features": [
+    {
+      "name": "Diverse materials",
+      "desc": "Poly resin, AB resin, bronze, stone, wood, ceramic and foam - meeting every size, style and color."
+    },
+    {
+      "name": "Refined workmanship",
+      "desc": "Every product is crafted with care, honoring the beauty of faith and art."
+    },
+    {
+      "name": "Custom-made",
+      "desc": "Order by sample, material and size, exactly as you wish."
+    },
+    {
+      "name": "Direct pricing",
+      "desc": "Prices are updated upon direct contact; get a fast quote when you reach out."
+    }
+  ],
+  "stats_title": "Impressive numbers",
+  "stats": [
+    {
+      "num": "7",
+      "label": "Crafting materials"
+    },
+    {
+      "num": "4",
+      "label": "Main product lines"
+    },
+    {
+      "num": "24/7",
+      "label": "Customer support"
+    },
+    {
+      "num": "100%",
+      "label": "Products made to order"
+    }
+  ],
+  "albums_eyebrow": "Photo gallery",
+  "albums_title": "Our creative process",
+  "albums_subtitle": "A record of the journey from sketch to finished piece.",
+  "albums": [
+    {
+      "name": "Van Nhan Buddha Statue Fine Art",
+      "desc": "Introducing our typical works.",
+      "image": "hero.jpg",
+      "url": "my-thuat-tuong-phat-van-nhan.html"
+    },
+    {
+      "name": "Creating and sculpting Buddha statues",
+      "desc": "The making process from sketch to finished piece.",
+      "image": "product-1.jpg",
+      "url": "sang-tao-va-dieu-khac-tuong-phat.html"
+    },
+    {
+      "name": "Our workshop",
+      "desc": "Images of the sculpture workshop and our artisans.",
+      "image": "product-3.jpg",
+      "url": "co-so-tuong-phat-van-nhan.html"
+    }
+  ],
+  "news_eyebrow": "News",
+  "news_title": "Latest news",
+  "news_subtitle": "Useful articles and knowledge about worship, feng shui and Buddhist art.",
+  "news_cta": "Read more",
+  "news": [
+    {
+      "title": "Which Buddha statue to worship at home for peace and prosperity",
+      "date": "04/09/2022",
+      "desc": "Worshipping Buddha at home is familiar to many Buddhists. Each statue carries its own meaning - so which one should you choose for luck and serenity?",
+      "image": "product-4.jpg",
+      "url": "nen-tho-tuong-phat-nao-trong-nha-mang-lai-binh-an-va-hung-thinh.html"
+    },
+    {
+      "title": "Photoluminescence applied in Buddha statue models",
+      "date": "04/09/2022",
+      "desc": "Van Nhan Buddha Statue applies modern technology to create halos that beautify Buddha statues at its Thu Duc studio.",
+      "image": "product-5.jpg",
+      "url": "hien-tuong-quang-phat-quang-ung-dung-trong-cac-mau-tuong-phat.html"
+    },
+    {
+      "title": "Things to know when worshipping Maitreya Buddha",
+      "date": "04/09/2022",
+      "desc": "Worshipping Maitreya Buddha is one of the indispensable beliefs in feng shui and Vietnamese Buddhism.",
+      "image": "product-2.jpg",
+      "url": "nhung-dieu-can-biet-khi-tho-phat-di-lac.html"
+    }
+  ],
+  "cta_title": "Need advice or a quote?",
+  "cta_text": "Contact us now for detailed advice and the fastest quote for your project.",
+  "cta_button_call": "Call now",
+  "cta_button_mail": "Send email",
+  "contact_eyebrow": "Contact",
+  "contact_title": "Get in touch",
+  "contact_subtitle": "Visit our sculpture workshop or reach us through the channels below.",
+  "contact_address": "16/2 Đường số 44, Khu phố 8, Phường Hiệp Bình Chánh, TP. Thủ Đức, TP.HCM",
+  "contact_phone": "0914 451 405",
+  "contact_phone_2": "0962 572 449",
+  "contact_email": "tuongphatvannhan@gmail.com",
+  "contact_website": "https://dieukhacvannhan.vn",
+  "contact_tiktok": "https://www.tiktok.com/@tuongphatvannhan",
+  "contact_address_label": "Address",
+  "contact_phone_label": "Phone",
+  "contact_email_label": "Email",
+  "contact_website_label": "Website",
+  "contact_tiktok_label": "TikTok",
+  "contact_hours_label": "Working hours",
+  "contact_hours": "Mon - Sun: 07:30 - 17:30",
+  "contact_button": "Call us now",
+  "contact_facebook": "https://www.tiktok.com/@tuongphatvannhan",
+  "contact_map_alt": "Map location of Van Nhan Buddha Statue Workshop",
+  "contact_map_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15674.023359329793!2d106.7309359!3d10.8490782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd741ffcdde2c28fe!2zVMaw4bujbmcgUGjhuq10IFbEg24gTmjDom4!5e0!3m2!1svi!2s!4v1662289962711!5m2!1svi!2s",
+  "footer_about_title": "About us",
+  "footer_about_text": "Specialized in Buddhist fine-art sculpture projects: Buddha statues, reliefs, temple ornaments, sacred animals and ritual symbols.",
+  "footer_policy_title": "Policies",
+  "policies": [
+    {
+      "name": "Privacy policy",
+      "url": "bao-mat-thong-tin.html"
+    },
+    {
+      "name": "Warranty policy",
+      "url": "chinh-sach-bao-hanh.html"
+    },
+    {
+      "name": "Shipping policy",
+      "url": "chinh-sach-van-chuyen.html"
+    },
+    {
+      "name": "Purchase guide",
+      "url": "huong-dan-mua-hang.html"
+    }
+  ],
+  "footer_contact_title": "Contact",
+  "footer_follow_title": "Follow us",
+  "footer_copyright": "Copyright ©",
+  "btn_call": "Call now",
+  "btn_zalo": "Zalo",
+  "back_to_top": "Back to top",
+  "_comment": "Curated English overrides merged on top of the argostranslate output. Keys mirror content/vi/index.json; arrays are merged by index."
+}

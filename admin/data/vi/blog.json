@@ -1,0 +1,98 @@
+{
+  "page_title": "Tin tức – Tượng Phật Văn Nhân",
+  "page_heading": "Tin tức & Kiến thức",
+  "page_subtitle": "Những bài viết và kiến thức hữu ích về thờ tự, phong thủy và nghệ thuật Phật giáo.",
+  "page_banner_image": "product-4.jpg",
+  "page_banner_alt": "Các bài viết tin tức Tượng Phật Văn Nhân",
+
+  "breadcrumb_home": "Trang chủ",
+  "breadcrumb_current": "Tin tức",
+
+  "category_label": "Chuyên mục",
+  "date_label": "Ngày đăng",
+  "read_more": "Đọc tiếp",
+  "pagination_prev": "Trước",
+  "pagination_next": "Tiếp",
+  "no_posts": "Chưa có bài viết nào.",
+
+  "newsletter_title": "Nhận tin mới từ chúng tôi",
+  "newsletter_text": "Đăng ký để nhận những bài viết và thông tin hữu ích về thờ tự, phong thủy và nghệ thuật Phật giáo.",
+  "newsletter_placeholder": "Email của bạn",
+  "newsletter_button": "Đăng ký",
+  "newsletter_success": "Cảm ơn bạn đã đăng ký!",
+
+  "posts": [
+    {
+      "title": "Nên thờ tượng Phật nào trong nhà mang lại bình an và hưng thịnh",
+      "date": "04/09/2022",
+      "category": "Kiến thức thờ tự",
+      "image": "product-4.jpg",
+      "desc": "Đối với các phật tử, việc thờ Phật tại gia không còn xa lạ. Mỗi tượng Phật đều mang ý nghĩa riêng, vậy nên thờ tượng Phật nào để may mắn và an nhiên?",
+      "url": "#"
+    },
+    {
+      "title": "Hiện tượng quang phát quang ứng dụng trong các mẫu tượng Phật",
+      "date": "04/09/2022",
+      "category": "Công nghệ chế tác",
+      "image": "product-5.jpg",
+      "desc": "Tượng Phật Văn Nhân ứng dụng công nghệ hiện đại tạo hào quang tô đẹp các mẫu tượng Phật của trại sáng tác ở Thủ Đức.",
+      "url": "#"
+    },
+    {
+      "title": "Những điều cần biết khi thờ Phật Di Lặc",
+      "date": "04/09/2022",
+      "category": "Kiến thức thờ tự",
+      "image": "product-2.jpg",
+      "desc": "Thờ Phật Di Lặc là một trong những tín ngưỡng không thể thiếu trong phong thủy và Phật giáo Việt Nam.",
+      "url": "#"
+    },
+    {
+      "title": "Ý nghĩa và cách thờ tượng Quan Âm Bồ Tát",
+      "date": "28/08/2022",
+      "category": "Kiến thức thờ tự",
+      "image": "product-1.jpg",
+      "desc": "Quan Âm Bồ Tát là vị Bồ Tát của lòng từ bi. Tìm hiểu ý nghĩa và cách bài trí tượng Quan Âm trong không gian thờ tự.",
+      "url": "#"
+    },
+    {
+      "title": "Quy trình chế tác tượng Phật từ phác thảo đến thành phẩm",
+      "date": "20/08/2022",
+      "category": "Công nghệ chế tác",
+      "image": "product-3.jpg",
+      "desc": "Cùng theo chân các nghệ nhân của Tượng Phật Văn Nhân trong quy trình tạo nên một pho tượng hoàn chỉnh.",
+      "url": "#"
+    },
+    {
+      "title": "Cách bố trí bàn thờ Phật tại gia chuẩn phong thủy",
+      "date": "12/08/2022",
+      "category": "Kiến thức thờ tự",
+      "image": "hero.jpg",
+      "desc": "Bố trí bàn thờ Phật hợp phong thủy giúp không gian thờ tự thanh tịnh và mang lại nhiều điều tốt lành cho gia đình.",
+      "url": "#"
+    },
+    {
+      "title": "Vì sao nên phục chế tôn tượng cổ thay vì thay mới?",
+      "date": "05/08/2022",
+      "category": "Dịch vụ",
+      "image": "product-4.jpg",
+      "desc": "Phục chế tôn tượng cổ giúp gìn giữ giá trị lịch sử, văn hóa và tâm linh của các pho tượng xưa.",
+      "url": "#"
+    },
+    {
+      "title": "Lựa chọn chất liệu tượng Phật: nhựa poly, nhựa AB hay đồng?",
+      "date": "28/07/2022",
+      "category": "Kiến thức thờ tự",
+      "image": "product-5.jpg",
+      "desc": "Mỗi chất liệu có ưu điểm riêng về độ bền, thẩm mỹ và chi phí. Bài viết giúp bạn lựa chọn phù hợp nhất.",
+      "url": "#"
+    },
+    {
+      "title": "Phù điêu Phật giáo và nghệ thuật trang trí đình chùa",
+      "date": "20/07/2022",
+      "category": "Nghệ thuật Phật giáo",
+      "image": "product-2.jpg",
+      "desc": "Phù điêu là một trong những hình thức nghệ thuật trang trí đặc sắc nhất trong kiến trúc chùa chiền Việt Nam.",
+      "url": "#"
+    }
+  ]
+}

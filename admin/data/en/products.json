@@ -1,0 +1,337 @@
+{
+  "page_title": "Product – Human Buddha",
+  "page_heading": "Symbolic Product",
+  "page_subtitle": "The Buddha's monument, the albatross, and ornaments are refined, which can be customized according to customer requirements.",
+  "page_banner_image": "product-1.jpg",
+  "page_banner_alt": "A collection of Human Buddhas",
+  "breadcrumb_home": "Homepage",
+  "breadcrumb_current": "Produc",
+  "filter_title": "Product Index",
+  "filter_all": "All",
+  "search_placeholder": "Look for products...",
+  "search_button": "Find",
+  "results_label": "result",
+  "no_results": "The product cannot be found that matches your key word.",
+  "reset_filter": "Clear filter",
+  "product_material": "Material",
+  "product_size": "Size",
+  "product_price_note": "Price Warning Contact",
+  "product_detail": "Details",
+  "pagination_prev": "Front",
+  "pagination_next": "Organisation",
+  "cta_title": "Need to advise or receive price notices?",
+  "cta_text": "Contact us immediately for detailed consultation and get the fastest price notice for your work.",
+  "cta_button": "Call now.",
+  "cta_button_mail": "Email",
+  "detail_category_label": "List",
+  "detail_description_label": "Product Description",
+  "detail_features_label": "Highlights Properties",
+  "detail_gallery_label": "Product Image",
+  "detail_related_label": "Related Product",
+  "detail_contact_text": "Please contact me directly for detailed advice and get the fastest price notice for this piece.",
+  "detail_cta_call": "Call for advice.",
+  "detail_cta_back": "View all products",
+  "filters": [
+    "Round statue",
+    "Frog",
+    "Portrait",
+    "Identeau.",
+    "Decorative"
+  ],
+  "products": [
+    {
+      "slug": "quan-am-tu-tai-cao-12m",
+      "name": "Guanyin Temple",
+      "category": "Round statue",
+      "size": "Cao 1,2m",
+      "material": "poly",
+      "image": "product-1.jpg",
+      "gallery": [
+        "product-1.jpg",
+        "product-3.jpg",
+        "hero.jpg"
+      ],
+      "desc": "Imagination of the Impression at the meditation, the compassionate face, elaborately in each outline.",
+      "long_desc": "Guan Yin Temple is one of the most popular statues, re-representing the image of the Goddess sitting in meditation in its current, peaceful position. Every cloud fold, every flowering detail is elaborately carved by the artist, expressing the compassion and tolerance of the Goddess.\nThe statue was composed on high poly plastic material, enduring with the weather, conforming to family worship or placing in self-importance spaces. Customise the size, paint colour and style as requested.",
+      "features": [
+        "Beautiful polyspherics, water-proofing",
+        "Skilling outline lines, optional yellow lipstick paint",
+        "Customise size, style on request"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "ton-tuong-kim-than-phat-thich-ca-cao-22m",
+      "name": "The Buddha likes you",
+      "category": "Round statue",
+      "size": "Cao 2,2m",
+      "material": "ABA",
+      "image": "about.jpg",
+      "gallery": [
+        "about.jpg",
+        "product-4.jpg",
+        "hero.jpg"
+      ],
+      "desc": "The Gold Buddha likes the great size, suitable for the Palace's Chief Minister and space of self-respect.",
+      "long_desc": "The statue of the Buddha's great size (high to 2.2 m) is dedicated to the Palace's Chief Palace, the Palace's palace hero. Buddha's face is peaceful, with all 32 good generals.\nThe product was composed from high-level AB plastics, an oversurface durability, which withstands sunny rain in open-air worship. The base takes credit, installs and completes the package in real space.",
+      "features": [
+        "Super-absolute AB plastic material, suffering in extreme weather",
+        "Public Exam, Full Package Installation at Work",
+        "Electrical Rights and Self - Respected Space"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "thich-ca-thien-dinh-cao-1m55",
+      "name": "Desirable Ca Zen",
+      "category": "Round statue",
+      "size": "Cao 1,55m",
+      "material": "poly",
+      "image": "product-3.jpg",
+      "gallery": [
+        "product-3.jpg",
+        "product-1.jpg",
+        "about.jpg"
+      ],
+      "desc": "The Buddha likes Ca in meditation, quiet and at home, suitable worship.",
+      "long_desc": "The Buddha's love of Ca in the meditation position (older age) gives the sense of calmness, of well-being to the space of self-importance. The eyes are closed, the face is relaxed, the well-being of enlightenment.\nIntroducted from poly plastic material, the statue has high completion, elegant colors. It is appropriate to worship at home or to place in the room of meditation, the living room.",
+      "features": [
+        "The calming position at, the profound meaning",
+        "Advanced poly, complete elegant colour",
+        "Compatibility at Home and Space Meditation"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "ho-phap-cao-18m",
+      "name": "French Guardian",
+      "category": "Round statue",
+      "size": "Cao 1,8m",
+      "material": "ABA",
+      "image": "product-4.jpg",
+      "gallery": [
+        "product-4.jpg",
+        "product-5.jpg",
+        "about.jpg"
+      ],
+      "desc": "Impressing the majesty of the French Guardian, the hand of magic, defends the temple.",
+      "long_desc": "The French Guardian is a god who protects the Buddha, often placed on either side of the main entrance to the palace. Imagination with the mighty spirit, the sword, the spirit, the force, but the rise of compassion.\nThe statue is composed of solid, well-placed AB plastic or in the open courtyard. Can coordinate with other religious icons in space.",
+      "features": [
+        "A mighty spirit.",
+        "ABMA weathered, suitable outdoor",
+        "Deal with free space formats"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "quan-am-bo-tat-cao-17m",
+      "name": "Guanyin",
+      "category": "Round statue",
+      "size": "Cao 1,7m",
+      "material": "poly",
+      "image": "product-5.jpg",
+      "gallery": [
+        "product-5.jpg",
+        "product-1.jpg",
+        "hero.jpg"
+      ],
+      "desc": "Guanyin stood, holding an orange vase, with a tone of compassion for rescue.",
+      "long_desc": "The statue of the Goddess stands in majesty, a hand holding a cleavage, a hand catching the seal, the symbol of compassion saving lives. The good, clean face.\nThe statue is 1,750 feet (7.7 m) tall, refined on poly plastic material, suitable to be placed in the main electricity, temple courtyard, or large self - worship space. Painting the golden on demand.",
+      "features": [
+        "Malena stands in majesty, meaning of compassion saves",
+        "Nice long-lived poly, yellow-painting option",
+        "The Rights and the Big Self - Worship Space"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "ton-tuong-bo-de-dao-trang",
+      "name": "Bodhi",
+      "category": "Round statue",
+      "size": "Cao 1,2m",
+      "material": "Copper",
+      "image": "hero.jpg",
+      "gallery": [
+        "hero.jpg",
+        "about.jpg",
+        "product-3.jpg"
+      ],
+      "desc": "Bodhiism re-renews the moment Buddha became a Buddhist under its root.",
+      "long_desc": "Bodhiism re-renews the sacred moment of Buddha's love of Christianity under the root of the subject. The Buddha sits in meditation among the canopy, rising to enlightenment and well-being.\nThe product is cast with copper material, sharp lines, fine bronze colors. This is a solemn choice for the main electricity or a highly spiritual gift.",
+      "features": [
+        "Advanced copper material, fine cast",
+        "Re-representing the moment of Buddha's faith",
+        "Excellence, Palace and Gifts"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-di-lac-cao-1m",
+      "name": "Buddha",
+      "category": "Round statue",
+      "size": "Cao 1m",
+      "material": "poly",
+      "image": "product-2.jpg",
+      "gallery": [
+        "product-2.jpg",
+        "product-1.jpg",
+        "product-5.jpg"
+      ],
+      "desc": "The Buddha rejoices, bringing good fortune, fortune, and peace to the host.",
+      "long_desc": "The Buddha has a cheerful smile, a large belly, a bag of cloth – a symbol of good fortune, talent, and tolerance. Worship of the Buddha is considered a way to bring joy and comfort to the family.\nThe statue is elaborately composed from poly plastic, bright faces, bright colors. In accordance with living room, store, office, or altar at home.",
+      "features": [
+        "Smiles of Joy, Symbols of Good Luck",
+        "The poly complete colour bright",
+        "Living room match, store, office"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "18-vi-la-han-cao-1m4",
+      "name": "18 The La Han",
+      "category": "Round statue",
+      "size": "Cao 1,4m",
+      "material": "ABA",
+      "image": "product-1.jpg",
+      "gallery": [
+        "product-1.jpg",
+        "product-3.jpg",
+        "product-4.jpg"
+      ],
+      "desc": "The 18th La Han with the different god, often placed along the temple corridor.",
+      "long_desc": "The 18th Department of La Han is made up of the best of the best of the Buddha's disciples, each of them has its own god, position and magic. The set is usually arranged across the corridor or in the temple hall lecture.\nEach statue was crafted, painted in the face, standing, expressing their diversity. The plastic material AB is strong, suitable in the house and outdoor is covered.",
+      "features": [
+        "The 18th Division with the Spirits are separate",
+        "Manufacturing, Practically Details",
+        "Structures, temple lecture"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "phu-dieu-cuoc-doi-duc-phat",
+      "name": "Buddha's Life",
+      "category": "Frog",
+      "size": "Cao 1,3m x 2,2m",
+      "material": "poly",
+      "image": "hero.jpg",
+      "gallery": [
+        "hero.jpg",
+        "product-4.jpg",
+        "about.jpg"
+      ],
+      "desc": "The sculpture of the Buddha's life from the twins to the Nirvana.",
+      "long_desc": "The Buddha's Life resurfaces important landmarks from the time of birth, incarnation, into the faith, transitioning to Nirvana. The work is a vivid picture of the journey of enlightenment.\nThe sculpture is floating on poly plastic material, the characters and contexts that are elaborately carved, deep. Appropriately decorated the main walls of electricity, corridors, or gallery spaces.",
+      "features": [
+        "Representing the Complete Buddha's Life",
+        "Embossing finely, with the depth of art",
+        "The palace wall decoration, the temple corridor"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "phu-dieu-gia-lam-ho-phap",
+      "name": "The Old Lam Guardian",
+      "category": "Frog",
+      "size": "Cao 1,7m",
+      "material": "Rocks",
+      "image": "product-4.jpg",
+      "gallery": [
+        "product-4.jpg",
+        "product-5.jpg",
+        "hero.jpg"
+      ],
+      "desc": "The Ancestor's portrait, the Old French Guardian with sharp, vivid touch.",
+      "long_desc": "The Old Lam Guardian of France and the Ancestor's portrait are outstanding ornamental works in the temple architecture. Every touch on the rock is sharp, and remakes your god.\nThe product is composed on natural stone material, sustainable with time, in accordance with front-up decorations, temple gates or surrounding walls.",
+      "features": [
+        "Natural rock material is sustainable",
+        "The touch is sharp, the spirit of life",
+        "Cash decoration, temple gate, wall"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-chan-dung-ong-ba-cao-30-cm",
+      "name": "The grandfather's statue.",
+      "category": "Portrait",
+      "size": "Cao 30cm",
+      "material": "poly",
+      "image": "product-5.jpg",
+      "gallery": [
+        "product-5.jpg",
+        "product-2.jpg",
+        "product-1.jpg"
+      ],
+      "desc": "The portrait of the ancestors with each line is re-represented and appreciated.",
+      "long_desc": "The likeness of their ancestors and grandparents is a way for descendants to show respect and preserve the image of their loved ones. Every line on the face, the smile, the look that the artist performs is authentic and appreciated.\nThe statue was composed in portraits, from a size of 30 cm to the size of the real person. poly plastic or copper material at request, may be placed in the chapel or living room.",
+      "features": [
+        "Revert truth in portrait image",
+        "Various sizes from 30 cm to real people",
+        "Optional poly or bronze plastic material"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-ganesha",
+      "name": "Gonesha statue",
+      "category": "Decorative",
+      "size": "Cao 60cm",
+      "material": "Copper",
+      "image": "product-2.jpg",
+      "gallery": [
+        "product-2.jpg",
+        "product-3.jpg",
+        "hero.jpg"
+      ],
+      "desc": "The Ganesha statue – the intellectual and fortunate symbol, fit for interior decoration.",
+      "long_desc": "Ganesha is the intellectual and fortunate god in Eastern culture, with the meaningful human elephant head figure. Ganesha statue is preferred in interior decorations and feng shui.\nThe work was cast in bronze, the finely crafted style, the luxurious ancient bronze color. Appropriately placed in the living room, desk, or art gallery space.",
+      "features": [
+        "The fine, luxurious copper material",
+        "Identical symbol, lucky in feng shui",
+        "interior decoration, desktop"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-ma-no-canh-bao-tang",
+      "name": "The Museum of the Ghosts",
+      "category": "Identeau.",
+      "size": "Theo yêu cầu",
+      "material": "ABA",
+      "image": "product-3.jpg",
+      "gallery": [
+        "product-3.jpg",
+        "product-5.jpg",
+        "product-1.jpg"
+      ],
+      "desc": "Constructing historical character, culture for museums and space displays.",
+      "long_desc": "The museum-watching statue serves to build historical characters, culture in a practical way, serving the display and education work. From shape, dress, and expression are thoroughly studied and re-represented.\nThe acquisition facility is based on material, photos or descriptions, with beautiful plastic AB material. The product fits the museum, the site, the traditionalist and the exhibition space.",
+      "features": [
+        "Revert truth according to Historical Documents",
+        "Serving the Gallery, Education at the Museum",
+        "Beautiful AB plastic material, customized by requirements"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "bo-tay-phuong-tam-thanh",
+      "name": "Western 3 Saints",
+      "category": "Round statue",
+      "size": "Cao 2,2m",
+      "material": "ABA",
+      "image": "about.jpg",
+      "gallery": [
+        "about.jpg",
+        "product-4.jpg",
+        "hero.jpg"
+      ],
+      "desc": "The A Di Xin – Guanyin – The Great, serious for the Chief Palace.",
+      "long_desc": "The Western Holy Department is made up of three icons: Buddha A Ditsu is in the middle, Guanyin and the Great Constabulary. This is a formal figure that is often summoned to the palace itself.\nThe set is co-authorised on AB plastic material, moderate proportions, complete golden lipstick. Size can be adjusted to the actual space of the temple.",
+      "features": [
+        "The trio is synchronized.",
+        "Paint sonile yellow complete formal",
+        "Adjust size to free space"
+      ],
+      "url": "#contact"
+    }
+  ]
+}

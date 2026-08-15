@@ -1,0 +1,66 @@
+name: Build & Deploy
+
+# Builds the static site from dev/src and commits the output into dist/.
+# Runs on every push to main and can be triggered manually.
+#
+#  1. Install Node + Python + argostranslate
+#  2. Translate content/vi/*.json -> content/en/*.json (missing files only,
+#     so per-language admin overrides in content/en/admin_*.json are preserved)
+#  3. Build the ACTIVE theme (from admin/config.json) for vi and en
+#  4. Assemble dist/ and commit it back to the repo
+#
+# A full re-translate (wipes all en jsons) can be triggered from the admin
+# dashboard or locally with:  npm run build:retranslate   (in dev/src)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies (argostranslate)
+        run: pip install argostranslate
+
+      - name: Install active theme dependencies
+        working-directory: dev/src
+        run: |
+          THEME=$(node -e "console.log(require('./admin/config.json').activeTheme)")
+          echo "Active theme: $THEME"
+          npm install --prefix "layouts/$THEME"
+
+      - name: Build site (translate vi->en, then build all pages)
+        working-directory: dev/src
+        run: node scripts/build.mjs --translate --skip-install
+
+      - name: Commit built output + translated content
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: rebuild site (vi/en) [skip ci]"
+          git push

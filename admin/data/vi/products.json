@@ -1,0 +1,283 @@
+{
+  "page_title": "Sản phẩm – Tượng Phật Văn Nhân",
+  "page_heading": "Sản phẩm tiêu biểu",
+  "page_subtitle": "Danh mục tượng Phật, phù điêu và đồ trang trí được chế tác tinh xảo, có thể tùy chỉnh theo yêu cầu khách hàng.",
+  "page_banner_image": "product-1.jpg",
+  "page_banner_alt": "Bộ sưu tập sản phẩm Tượng Phật Văn Nhân",
+
+  "breadcrumb_home": "Trang chủ",
+  "breadcrumb_current": "Sản phẩm",
+
+  "filter_title": "Danh mục sản phẩm",
+  "filter_all": "Tất cả",
+  "search_placeholder": "Tìm kiếm sản phẩm...",
+  "search_button": "Tìm",
+  "results_label": "kết quả",
+  "no_results": "Không tìm thấy sản phẩm phù hợp với từ khóa của bạn.",
+  "reset_filter": "Xóa bộ lọc",
+
+  "product_material": "Chất liệu",
+  "product_size": "Kích thước",
+  "product_price_note": "Liên hệ báo giá",
+  "product_detail": "Chi tiết",
+
+  "pagination_prev": "Trước",
+  "pagination_next": "Tiếp",
+
+  "cta_title": "Cần tư vấn hoặc nhận báo giá?",
+  "cta_text": "Liên hệ ngay với chúng tôi để được tư vấn chi tiết và nhận báo giá nhanh nhất cho công trình của bạn.",
+  "cta_button": "Gọi ngay",
+  "cta_button_mail": "Gửi email",
+
+  "detail_category_label": "Danh mục",
+  "detail_description_label": "Mô tả sản phẩm",
+  "detail_features_label": "Đặc điểm nổi bật",
+  "detail_gallery_label": "Hình ảnh sản phẩm",
+  "detail_related_label": "Sản phẩm liên quan",
+  "detail_contact_text": "Vui lòng liên hệ trực tiếp để được tư vấn chi tiết và nhận báo giá nhanh nhất cho tác phẩm này.",
+  "detail_cta_call": "Gọi tư vấn ngay",
+  "detail_cta_back": "Xem tất cả sản phẩm",
+
+  "filters": ["Tượng tròn", "Phù điêu", "Tượng chân dung", "Tượng ma nơ canh", "Đồ trang trí"],
+
+  "products": [
+    {
+      "slug": "quan-am-tu-tai-cao-12m",
+      "name": "Quan Âm Tự Tại",
+      "category": "Tượng tròn",
+      "size": "Cao 1,2m",
+      "material": "Nhựa poly",
+      "image": "product-1.jpg",
+      "gallery": ["product-1.jpg", "product-3.jpg", "hero.jpg"],
+      "desc": "Tôn tượng Quan Âm Tự Tại tọa thiền, gương mặt từ bi, tỉ mỉ trong từng đường nét áo mây.",
+      "long_desc": "Quan Âm Tự Tại là một trong những tôn tượng được yêu thích nhất, tái hiện hình ảnh Bồ Tát ngồi tọa thiền trong tư thế tự tại, an nhiên. Từng nếp áo mây, từng chi tiết hoa văn đều được các nghệ nhân chạm khắc tỉ mỉ, thể hiện lòng từ bi và sự bao dung của Bồ Tát.\nTượng được chế tác trên chất liệu nhựa poly cao cấp, bền bỉ với thời tiết, phù hợp thờ trong gia đình hoặc đặt tại các không gian thờ tự. Có thể tùy chỉnh kích thước, màu sơn và kiểu dáng theo yêu cầu.",
+      "features": [
+        "Chất liệu nhựa poly bền đẹp, chống thấm nước",
+        "Đường nét chạm khắc tinh xảo, sơn son thếp vàng tùy chọn",
+        "Tùy chỉnh kích thước, kiểu dáng theo yêu cầu"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "ton-tuong-kim-than-phat-thich-ca-cao-22m",
+      "name": "Tôn Tượng Phật Thích Ca",
+      "category": "Tượng tròn",
+      "size": "Cao 2,2m",
+      "material": "Nhựa AB",
+      "image": "about.jpg",
+      "gallery": ["about.jpg", "product-4.jpg", "hero.jpg"],
+      "desc": "Kim thân Phật Thích Ca Mâu Ni kích thước lớn, thích hợp cho chánh điện và không gian thờ tự trang nghiêm.",
+      "long_desc": "Tôn tượng Phật Thích Ca Mâu Ni kích thước lớn (cao 2,2m) dành cho chánh điện, đại hùng bảo điện của các ngôi chùa. Gương mặt Phật thanh tịnh, an nhiên, với đầy đủ 32 tướng tốt.\nSản phẩm được chế tác từ nhựa AB cao cấp, độ bền vượt trội, chịu được mưa nắng khi thờ ngoài trời. Cơ sở nhận thi công, lắp đặt và hoàn thiện trọn gói theo không gian thực tế.",
+      "features": [
+        "Chất liệu nhựa AB siêu bền, chịu thời tiết khắc nghiệt",
+        "Thi công, lắp đặt trọn gói tại công trình",
+        "Phù hợp chánh điện và không gian thờ tự trang nghiêm"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "thich-ca-thien-dinh-cao-1m55",
+      "name": "Thích Ca Thiền Định",
+      "category": "Tượng tròn",
+      "size": "Cao 1,55m",
+      "material": "Nhựa poly",
+      "image": "product-3.jpg",
+      "gallery": ["product-3.jpg", "product-1.jpg", "about.jpg"],
+      "desc": "Phật Thích Ca trong tư thế thiền định, thanh tịnh và an lạc, phù hợp thờ tại gia.",
+      "long_desc": "Tượng Phật Thích Ca trong tư thế thiền định (kiết già) mang lại cảm giác thanh tịnh, an lạc cho không gian thờ tự. Ánh mắt khép hờ, gương mặt thư thái, toát lên sự an nhiên của bậc giác ngộ.\nĐược chế tác tỉ mỉ từ chất liệu nhựa poly, tượng có độ hoàn thiện cao, màu sắc trang nhã. Thích hợp thờ tại gia hoặc đặt trong phòng thiền, phòng khách.",
+      "features": [
+        "Tư thế thiền định tĩnh tại, ý nghĩa sâu sắc",
+        "Nhựa poly cao cấp, hoàn thiện màu trang nhã",
+        "Phù hợp thờ tại gia và không gian thiền"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "ho-phap-cao-18m",
+      "name": "Hộ Pháp",
+      "category": "Tượng tròn",
+      "size": "Cao 1,8m",
+      "material": "Nhựa AB",
+      "image": "product-4.jpg",
+      "gallery": ["product-4.jpg", "product-5.jpg", "about.jpg"],
+      "desc": "Tôn tượng Hộ Pháp oai nghiêm, tay cầm pháp khí, bảo vệ chính pháp cho ngôi chùa.",
+      "long_desc": "Hộ Pháp là vị thần bảo vệ Phật pháp, thường được đặt ở hai bên lối vào chánh điện. Tôn tượng với thần thái oai nghiêm, tay cầm pháp khí (kiếm, chùy), khí thế mạnh mẽ nhưng vẫn toát lên sự từ bi.\nTượng được chế tác từ nhựa AB bền chắc, thích hợp đặt ngoài trời hoặc trong sân chùa. Có thể phối bộ với các tôn tượng khác theo không gian.",
+      "features": [
+        "Thần thái oai nghiêm, khí thế mạnh mẽ",
+        "Nhựa AB chịu mưa nắng, phù hợp đặt ngoài trời",
+        "Nhận phối bộ theo không gian chùa"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "quan-am-bo-tat-cao-17m",
+      "name": "Quan Âm Bồ Tát",
+      "category": "Tượng tròn",
+      "size": "Cao 1,7m",
+      "material": "Nhựa poly",
+      "image": "product-5.jpg",
+      "gallery": ["product-5.jpg", "product-1.jpg", "hero.jpg"],
+      "desc": "Quan Âm Bồ Tát đứng, tay cầm bình cam lộ, sắc thái từ bi cứu khổ cứu nạn.",
+      "long_desc": "Tượng Quan Âm Bồ Tát đứng uy nghi, một tay cầm bình cam lộ, một tay bắt ấn, biểu tượng của lòng từ bi cứu khổ cứu nạn. Gương mặt Bồ Tát hiền hậu, thanh thoát.\nTượng cao 1,7m, được chế tác tinh xảo trên chất liệu nhựa poly, thích hợp đặt trong chánh điện, sân chùa hoặc không gian thờ tự lớn. Sơn son thếp vàng theo yêu cầu.",
+      "features": [
+        "Dáng đứng uy nghi, ý nghĩa từ bi cứu khổ",
+        "Nhựa poly bền đẹp, tùy chọn sơn son thếp vàng",
+        "Phù hợp chánh điện và không gian thờ tự lớn"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "ton-tuong-bo-de-dao-trang",
+      "name": "Bồ Đề Đạo Tràng",
+      "category": "Tượng tròn",
+      "size": "Cao 1,2m",
+      "material": "Đồng",
+      "image": "hero.jpg",
+      "gallery": ["hero.jpg", "about.jpg", "product-3.jpg"],
+      "desc": "Tôn tượng Bồ Đề Đạo Tràng tái hiện khoảnh khắc Đức Phật thành đạo dưới cội bồ đề.",
+      "long_desc": "Tôn tượng Bồ Đề Đạo Tràng tái hiện khoảnh khắc thiêng liêng Đức Phật Thích Ca thành đạo dưới cội bồ đề. Hình ảnh Phật ngồi thiền định giữa những tán cây, toát lên sự giác ngộ và an lạc.\nSản phẩm được đúc bằng chất liệu đồng, đường nét sắc sảo, màu đồng sang trọng. Đây là lựa chọn trang trọng cho chánh điện hoặc làm quà tặng tâm linh cao quý.",
+      "features": [
+        "Chất liệu đồng cao cấp, đúc tinh xảo",
+        "Tái hiện khoảnh khắc Đức Phật thành đạo",
+        "Sang trọng, phù hợp chánh điện và quà tặng"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-di-lac-cao-1m",
+      "name": "Phật Di Lặc",
+      "category": "Tượng tròn",
+      "size": "Cao 1m",
+      "material": "Nhựa poly",
+      "image": "product-2.jpg",
+      "gallery": ["product-2.jpg", "product-1.jpg", "product-5.jpg"],
+      "desc": "Phật Di Lặc hoan hỉ, mang lại may mắn, tài lộc và bình an cho gia chủ.",
+      "long_desc": "Phật Di Lặc với nụ cười hoan hỉ, bụng lớn, tay cầm túi vải – biểu tượng của sự may mắn, tài lộc và bao dung. Thờ Phật Di Lặc được xem là cách để mang lại niềm vui và sự an nhiên cho gia đình.\nTượng được chế tác tỉ mỉ từ nhựa poly, khuôn mặt rạng rỡ, màu sắc tươi sáng. Phù hợp đặt trong phòng khách, cửa hàng, văn phòng hoặc bàn thờ tại gia.",
+      "features": [
+        "Nụ cười hoan hỉ, biểu tượng may mắn tài lộc",
+        "Nhựa poly hoàn thiện màu tươi sáng",
+        "Phù hợp phòng khách, cửa hàng, văn phòng"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "18-vi-la-han-cao-1m4",
+      "name": "18 Vị La Hán",
+      "category": "Tượng tròn",
+      "size": "Cao 1,4m",
+      "material": "Nhựa AB",
+      "image": "product-1.jpg",
+      "gallery": ["product-1.jpg", "product-3.jpg", "product-4.jpg"],
+      "desc": "Bộ 18 vị La Hán với thần thái khác nhau, thường được đặt dọc hành lang chùa.",
+      "long_desc": "Bộ 18 vị La Hán gồm các vị đệ tử đã đắc quả của Đức Phật, mỗi vị có thần thái, tư thế và pháp khí riêng biệt. Bộ tượng thường được bài trí dọc hành lang hoặc trong giảng đường chùa.\nMỗi pho tượng được chế tác thủ công, khắc họa chân thực từng gương mặt, dáng đứng, thể hiện sự đa dạng của chúng sinh. Chất liệu nhựa AB bền chắc, phù hợp đặt trong nhà và ngoài trời có mái che.",
+      "features": [
+        "Bộ 18 vị với thần thái, pháp khí riêng biệt",
+        "Chế tác thủ công, chân thực từng chi tiết",
+        "Phù hợp hành lang, giảng đường chùa"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "phu-dieu-cuoc-doi-duc-phat",
+      "name": "Phù điêu Cuộc đời Đức Phật",
+      "category": "Phù điêu",
+      "size": "Cao 1,3m x 2,2m",
+      "material": "Nhựa poly",
+      "image": "hero.jpg",
+      "gallery": ["hero.jpg", "product-4.jpg", "about.jpg"],
+      "desc": "Phù điêu khắc họa cuộc đời Đức Phật từ đản sinh đến nhập Niết Bàn.",
+      "long_desc": "Phù điêu Cuộc đời Đức Phật tái hiện những cột mốc quan trọng từ lúc đản sinh, xuất gia, thành đạo, chuyển pháp luân cho đến nhập Niết Bàn. Tác phẩm là một bức tranh sống động về hành trình giác ngộ.\nPhù điêu được đắp nổi trên chất liệu nhựa poly, các nhân vật và bối cảnh được khắc họa tỉ mỉ, có chiều sâu. Thích hợp trang trí tường chánh điện, hành lang hoặc không gian trưng bày.",
+      "features": [
+        "Tái hiện trọn vẹn cuộc đời Đức Phật",
+        "Đắp nổi tinh xảo, có chiều sâu nghệ thuật",
+        "Trang trí tường chánh điện, hành lang chùa"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "phu-dieu-gia-lam-ho-phap",
+      "name": "Phù điêu Già Lam Hộ Pháp",
+      "category": "Phù điêu",
+      "size": "Cao 1,7m",
+      "material": "Đá",
+      "image": "product-4.jpg",
+      "gallery": ["product-4.jpg", "product-5.jpg", "hero.jpg"],
+      "desc": "Phù điêu chân dung Tổ sư, Già Lam Hộ Pháp với nét chạm sắc sảo, sống động.",
+      "long_desc": "Phù điêu Già Lam Hộ Pháp và chân dung Tổ sư là những tác phẩm nghệ thuật trang trí đặc sắc trong kiến trúc chùa chiền. Từng nét chạm trên đá sắc sảo, tái hiện chân thực thần thái của các vị.\nSản phẩm được chế tác trên chất liệu đá tự nhiên, bền vững với thời gian, phù hợp trang trí mặt tiền, cổng chùa hoặc tường bao quanh.",
+      "features": [
+        "Chất liệu đá tự nhiên bền vững",
+        "Nét chạm sắc sảo, thần thái sống động",
+        "Trang trí mặt tiền, cổng chùa, tường bao"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-chan-dung-ong-ba-cao-30-cm",
+      "name": "Tượng Chân Dung Ông Bà",
+      "category": "Tượng chân dung",
+      "size": "Cao 30cm",
+      "material": "Nhựa poly",
+      "image": "product-5.jpg",
+      "gallery": ["product-5.jpg", "product-2.jpg", "product-1.jpg"],
+      "desc": "Chân dung ông bà, tổ tiên với từng đường nét được tái hiện chân thực và trân trọng.",
+      "long_desc": "Tượng chân dung ông bà, tổ tiên là cách để con cháu bày tỏ lòng hiếu kính và gìn giữ hình ảnh người thân. Từng đường nét trên khuôn mặt, nụ cười, ánh mắt được nghệ nhân tái hiện chân thực và trân trọng.\nTượng được chế tác theo ảnh chân dung, từ kích thước 30cm cho đến kích thước như người thật. Chất liệu nhựa poly hoặc đồng theo yêu cầu, có thể đặt trong phòng thờ hoặc phòng khách.",
+      "features": [
+        "Tái hiện chân thực theo ảnh chân dung",
+        "Nhiều kích thước từ 30cm đến như người thật",
+        "Chất liệu nhựa poly hoặc đồng tùy chọn"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-ganesha",
+      "name": "Tượng Ganesha",
+      "category": "Đồ trang trí",
+      "size": "Cao 60cm",
+      "material": "Đồng",
+      "image": "product-2.jpg",
+      "gallery": ["product-2.jpg", "product-3.jpg", "hero.jpg"],
+      "desc": "Tượng Ganesha – biểu tượng trí tuệ và may mắn, phù hợp trang trí nội thất.",
+      "long_desc": "Ganesha là vị thần trí tuệ và may mắn trong văn hóa phương Đông, với hình tượng đầu voi thân người đầy ý nghĩa. Tượng Ganesha được ưa chuộng trong trang trí nội thất và phong thủy.\nTác phẩm được đúc bằng đồng, đường nét hoa văn tinh xảo, màu đồng cổ sang trọng. Thích hợp đặt tại phòng khách, bàn làm việc hoặc không gian trưng bày nghệ thuật.",
+      "features": [
+        "Chất liệu đồng đúc tinh xảo, sang trọng",
+        "Biểu tượng trí tuệ, may mắn trong phong thủy",
+        "Trang trí nội thất, bàn làm việc"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "tuong-ma-no-canh-bao-tang",
+      "name": "Tượng Ma Nơ Canh Bảo Tàng",
+      "category": "Tượng ma nơ canh",
+      "size": "Theo yêu cầu",
+      "material": "Nhựa AB",
+      "image": "product-3.jpg",
+      "gallery": ["product-3.jpg", "product-5.jpg", "product-1.jpg"],
+      "desc": "Phục dựng nhân vật lịch sử, văn hóa cho các bảo tàng và không gian trưng bày.",
+      "long_desc": "Tượng ma nơ canh bảo tàng phục dựng các nhân vật lịch sử, văn hóa một cách chân thực, phục vụ công tác trưng bày và giáo dục. Từ hình dáng, trang phục đến biểu cảm đều được nghiên cứu và tái hiện kỹ lưỡng.\nCơ sở nhận phục dựng theo tư liệu, ảnh hoặc mô tả, với chất liệu nhựa AB bền đẹp. Sản phẩm phù hợp cho bảo tàng, khu di tích, nhà truyền thống và không gian triển lãm.",
+      "features": [
+        "Phục dựng chân thực theo tư liệu lịch sử",
+        "Phục vụ trưng bày, giáo dục tại bảo tàng",
+        "Chất liệu nhựa AB bền đẹp, tùy chỉnh theo yêu cầu"
+      ],
+      "url": "#contact"
+    },
+    {
+      "slug": "bo-tay-phuong-tam-thanh",
+      "name": "Bộ Tây Phương Tam Thánh",
+      "category": "Tượng tròn",
+      "size": "Cao 2,2m",
+      "material": "Nhựa AB",
+      "image": "about.jpg",
+      "gallery": ["about.jpg", "product-4.jpg", "hero.jpg"],
+      "desc": "Bộ tượng A Di Đà – Quan Âm – Đại Thế Chí, trang nghiêm cho chánh điện.",
+      "long_desc": "Bộ Tây Phương Tam Thánh gồm ba tôn tượng: Phật A Di Đà ở chính giữa, Quan Âm Bồ Tát và Đại Thế Chí Bồ Tát hai bên. Đây là bộ tượng trang nghiêm thường được thỉnh về chánh điện.\nBộ tượng được chế tác đồng bộ trên chất liệu nhựa AB, tỉ lệ hài hòa, hoàn thiện sơn son thếp vàng. Kích thước có thể điều chỉnh theo không gian thực tế của ngôi chùa.",
+      "features": [
+        "Bộ 3 tôn tượng đồng bộ, tỉ lệ hài hòa",
+        "Sơn son thếp vàng hoàn thiện trang nghiêm",
+        "Điều chỉnh kích thước theo không gian chùa"
+      ],
+      "url": "#contact"
+    }
+  ]
+}
