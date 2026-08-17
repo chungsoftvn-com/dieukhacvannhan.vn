@@ -145,6 +145,13 @@
   "footer_follow_title": "Theo dõi chúng tôi",
   "footer_copyright": "Bản quyền ©",
 
+  "footer_credit_text": "Website được thiết kế & phát triển bởi",
+  "footer_credit_company": "ChungsoftVn",
+  "footer_credit_phone": "0367.465.221",
+  "footer_credit_cta": "Cần một website cho doanh nghiệp? Liên hệ chúng tôi.",
+  "footer_credit_call": "Gọi ngay",
+  "footer_credit_zalo": "Zalo",
+
   "btn_call": "Gọi ngay",
   "btn_zalo": "Zalo",
   "back_to_top": "Lên đầu trang"
